@@ -71,7 +71,7 @@
 
 - 1969年，美国国防部高级研究计划局（Advance Research Projects Agency, ARPA）建立 ARPANET 网络
 
-### 1970
+#### 1970
 
 - 1970年6月，IBM 圣约瑟研究实验室 Edgar Frank Codd 在 Communications of ACM 上发表《大型共享数据库数据的关系模型》
 
@@ -164,8 +164,9 @@
 
 #### 1989
 
-- 1989年，柳传志任联想总裁
-- 1989年，MILNET 实现与 NSFNET 连接，采用新名称 Internet，ARPANET 宣告解散
+- 1989年，
+    - 柳传志任联想总裁
+    - MILNET 实现与 NSFNET 连接，采用新名称 Internet，ARPANET 宣告解散
 
 #### 1990
 
@@ -173,32 +174,35 @@
 
 #### 1991
 
-- 1991年，John Chambers 加入思科公司
-- 1991年，Mike Morhaime，Allen Adham 和 Frank Pearce 共同创立硅与神经键公司（Silicon & Synapse）
+- 1991年
+    - John Chambers 加入思科公司
+    - Mike Morhaime，Allen Adham 和 Frank Pearce 共同创立硅与神经键公司（Silicon & Synapse）
 
 #### 1992
 
-- 1992年，孙正义得到思科系统日本代理权
-- 1992年，Sun 推出市场上第一台多处理器台式机 SPARC station 10 system
-- 1992年，王安电脑公司申请破产保护
+- 1992年
+    - 孙正义得到思科系统日本代理权
+    - Sun 推出市场上第一台多处理器台式机 SPARC station 10 system
+    - 王安电脑公司申请破产保护
 
 #### 1993
 
-- 1993年，伊利诺大学的国家超级计算机应用中心（NCSA）发布 "Mosaic" 浏览器
-- 1993年，硅与神经键公司更名为混沌工作室（Chaos Studio）
+- 1993年
+    - 伊利诺大学的国家超级计算机应用中心（NCSA）发布 "Mosaic" 浏览器
+    - 硅与神经键公司更名为混沌工作室（Chaos Studio）
 
 #### 1994
 
-- 1994年，Davidson & Associates 收购混沌工作室，并正式更名为暴雪公司
-- 1994年，联想在香港证券交易所上市
-- 1994年，联想成立微机事业部，杨元庆执掌联想 PC
+- 1994年
+    - Davidson & Associates 收购混沌工作室，并正式更名为暴雪公司
+    - 联想在香港证券交易所上市
+    - 联想成立微机事业部，杨元庆执掌联想 PC
 - 1994年4月4日，Mosaic 开发核心人物 Marc Andreessen 和 Silicon Graphic公司（SGI）创始人 Jim Clark 在加州成立 "Mosaic Communication Corp"
 - 1994年4月20日，中国通过美国 Sprint 公司连入 Internet 的 64K 国际专线开通，实现了与 Internet 的全功能连接
 - 1994年11月14日，Mosaic 公司更名为网景通信公司（Netscape Communications Corporation）
 
 #### 1995
 
-- John Chambers 任思科总裁
 - 1995年4月，马云成立杭州海博电脑服务有限公司，最初的三名员工是马云，马云夫人张瑛和何一兵
 - 1995年5月，马云推出 “中国黄页” 网站
 - 1995年7月16日，Jeff Bezos 成立 Cadabra
@@ -213,6 +217,7 @@
     - 苹果公司以 4亿美元收购 NeXT 公司
     - 暴雪收购位于加州红杉城的 Condor 公司，Condor 即改名为 Blizzard North（暴雪北方）
     - Gabe Newell 和 Mike Harrington 一同创建 Valve 软件公司（Valve Software）
+    - John Chambers 任思科总裁
 - 1996年12月，育碧股票上市，并在上海和蒙特利尔设立分公司
 - 1996年11月15日，“实华开网络咖啡屋” 在北京首都体育馆旁开设，成为中国第一家网吧
 
@@ -338,7 +343,7 @@
 - 2011年8月25日，苹果宣布任命 Steve Jobs 为董事长，Tim Cook 接任 CEO
 - 2011年10月5日
     - 中华网向美国亚特兰大破产法庭提交破产申请
-    - 2011年10月5日，Steve Jobs 因患胰腺癌病逝，享年 56岁
+    - Steve Jobs 因患胰腺癌病逝，享年 56岁
 
 #### 2012
 
