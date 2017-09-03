@@ -12,6 +12,10 @@
 
 - 1924年2月14日，CTR 改名为 IBM（International Business Machines Corporation）
 
+#### 1925
+
+- 1925年1月1日，AT&T 总裁 Walter Gifford 收购西方电子公司研究部门，成立 “贝尔电话实验室公司”，后改成贝尔实验室
+
 #### 1937
 
 - 1937年
@@ -60,7 +64,13 @@
 
 #### 1966
 
-- 1966年，惠普实验室成立
+- 1966年
+    - 惠普实验室成立
+    - Ken Thompson 加入贝尔实验室
+
+#### 1967
+
+- 1967年，剑桥大学的 Martin Richards 对 CPL 语言进行简化，产生了 BCPL（Basic Combined Programming Language）
 
 #### 1968
 
@@ -69,21 +79,29 @@
 
 #### 1969
 
-- 1969年，美国国防部高级研究计划局（Advance Research Projects Agency, ARPA）建立 ARPANET 网络
+- 1969年
+    - 美国国防部高级研究计划局（Advance Research Projects Agency, ARPA）建立 ARPANET 网络
+    - Ken Thompson 以 BCPL 语言为基础，设计了 B语言，并用 B语言开发可运行在 PDP-7 的操作系统 UNiplexed Information and Computing System（UNICS），后被称为 UNIX
 
 #### 1970
 
 - 1970年6月，IBM 圣约瑟研究实验室 Edgar Frank Codd 在 Communications of ACM 上发表《大型共享数据库数据的关系模型》
+
+#### 1971
+
+- 1971年，Dennis M. Ritchie 加入 Ken Thompson 的 UNIX 开发项目
 
 #### 1972
 
 - 1972年
     - Nolan Bushnell 创办雅达利公司（Atari），并推出第一款视频游戏 Pong
     - 王安成功研制半导体文字处理机
+    - D.M. Ritchie 在 B语言基础上设计了新的语言，取名为 C语言
 
 #### 1974
 
 - 1974年，Steve Jobs 加入雅达利
+- 1974年7月，Ken Thompson 和 Dennis Ritchie 在 The Communications of ACM 发表了第一篇 Unix 论文 "The UNIX Time Sharing System"
 
 #### 1975
 
@@ -116,6 +134,7 @@
 #### 1981
 
 - 1981年，孙正义创建软银（SoftBank）
+- 1981年，TTK家庭电器有限公司成立（后更名为 TCL）
 - 1981年8月12日，IBM 推出 IBM5150，是世界上第一台个人电脑
 
 #### 1982
@@ -124,6 +143,9 @@
     - RSI 更名为甲骨文（Oracle）
     - Sun Microsystems 成立
     - 诺基亚生产了第一台北欧移动电话网络移动电话 Senator
+    - Andy Bechtolsheim 和 Scott McNealy 创办 Sun Microsystems
+    - 李东生加入 TTK
+- 1982年11月，John Warnock 和 Charles Geschke 共同创建 Adobe 公司
 
 #### 1983
 
@@ -146,6 +168,8 @@
 - 1985年
     - 美国国家科学基金会（National Science Foundation, NSF）建立计算机网络 NSFNET，代替 ARPANET
     - 微软开始发行 Microsoft Windows 1.0
+    - Adobe 公司推出 PostScript，最早在 Apple Laser Write 上出现
+    - Sun 研制成功 SPARC 精简指令集（RISC）处理器
 - 1985年9月17日，Steve Jobs 辞去苹果公司董事长职位
 - 1985年，Steve Jobs 成立 NeXT 计算机公司
 
@@ -153,6 +177,7 @@
 
 - 1986年
     - Guillemot 五兄弟在法国成立育碧娱乐软件公司（Ubisoft Entertainment S.A）
+    - Sun Microsystems 在纳斯达克上市，股票代号（SUNW）
 
 #### 1987
 
@@ -161,14 +186,20 @@
     - 张忠谋在台湾新竹科学院创建台湾积体电路制造公司（台积电）
     - Bill Hewlett 退休并辞去惠普副董事长职务，Walter Hewlett 和 David Woodley Packard 当选为公司董事
 
+#### 1988
+
+- 1988年，Adobe 发布 Illustrator 1.0
+
 #### 1989
 
 - 1989年，
     - 柳传志任联想总裁
     - MILNET 实现与 NSFNET 连接，采用新名称 Internet，ARPANET 宣告解散
+    - ANSI 发布第一个完整的 C语言标准，ANSI X3.159-1989，简称 “C89”
 
 #### 1990
 
+- 1990年2月，Adobe 发布 Photoshop 1.0
 - 1990年3月24日，王安因食道癌在波士顿逝世，享年 70岁
 
 #### 1991
@@ -176,6 +207,7 @@
 - 1991年
     - John Chambers 加入思科公司
     - Mike Morhaime，Allen Adham 和 Frank Pearce 共同创立硅与神经键公司（Silicon & Synapse）
+    - Sun 成立 Green 项目小组，由 Patrick Naughton、James Gosling 和 Mike Sheridan 等人组成
 
 #### 1992
 
@@ -183,12 +215,16 @@
     - 孙正义得到思科系统日本代理权
     - Sun 推出市场上第一台多处理器台式机 SPARC station 10 system
     - 王安电脑公司申请破产保护
+    - MacroMind，Paracomp 和 Authorware 三家公司合并成立 Macromedia
+    - Sun Green 项目小组成功开发 Oak语言
 
 #### 1993
 
 - 1993年
     - 伊利诺大学的国家超级计算机应用中心（NCSA）发布 "Mosaic" 浏览器
     - 硅与神经键公司更名为混沌工作室（Chaos Studio）
+    - Macromedia 在纳斯达克上市
+    - Jonathan Gay 成立 Future Wave
 - 1993年12月，王志东得到四通集团 500万港币投资创办四通利方信息技术有限公司
 
 #### 1994
@@ -199,12 +235,17 @@
     - 联想成立微机事业部，杨元庆执掌联想 PC
 - 1994年4月4日，Mosaic 开发核心人物 Marc Andreessen 和 Silicon Graphic公司（SGI）创始人 Jim Clark 在加州成立 "Mosaic Communication Corp"
 - 1994年4月20日，中国通过美国 Sprint 公司连入 Internet 的 64K 国际专线开通，实现了与 Internet 的全功能连接
+- 1994年7月，Patrick Naughton 开发小型万维网浏览器 WebRunner（后改名为 HotJava）
 - 1994年11月14日，Mosaic 公司更名为网景通信公司（Netscape Communications Corporation）
 
 #### 1995
 
+- 1995年
+    - Jonathan Gay 设计开发了 Future Splash Animator
+    - Sun 推出 Applet
 - 1995年4月，马云成立杭州海博电脑服务有限公司，最初的三名员工是马云，马云夫人张瑛和何一兵
 - 1995年5月，马云推出 “中国黄页” 网站
+- 1995年5月23日，Sun 正式发布 Java 和 HotJava 浏览器
 - 1995年7月16日，Jeff Bezos 成立 Cadabra
 - 1995年7月，Jeff Bezos 将 Cadabra 更名为亚马逊（Amazon）
 - 1995年9月4日，Pierre Omidyar 建立拍卖网站 Auctionweb
@@ -218,8 +259,12 @@
     - 暴雪收购位于加州红杉城的 Condor 公司，Condor 即改名为 Blizzard North（暴雪北方）
     - Gabe Newell 和 Mike Harrington 一同创建 Valve 软件公司（Valve Software）
     - John Chambers 任思科总裁
-- 1996年12月，育碧股票上市，并在上海和蒙特利尔设立分公司
+    - 贝尔实验室以及 AT&T 的设备制造部门脱离 AT&T，成立朗讯科技（Lucent Technology）
+- 1996年1月，Sun 发布 Java 第一个开发工具包 JDK 1.0
+- 1996年11月，Macromedia 收购 Future Wave，并将 Future Splash Animator 更名为 Flash
 - 1996年11月15日，“实华开网络咖啡屋” 在北京首都体育馆旁开设，成为中国第一家网吧
+- 1996年12月，育碧股票上市，并在上海和蒙特利尔设立分公司
+- 1996年底，李东生出任 TCL 集团董事长兼总裁
 
 #### 1997
 
@@ -234,6 +279,7 @@
 
 #### 1998
 
+- 1998年，Netscape 宣布浏览器绑定 Flash Player
 - 1998年2月25日，爱特信推出搜狐产品，并更名为搜狐公司
 - 1998年3月，Meg Whitman 加盟 eBay，任公司总裁兼 CEO
 - 1998年6月18日，刘强东成立京东公司
@@ -242,6 +288,7 @@
 - 1998年12月
     - Peter Thiel 和 Max Levchin 成立 PayPal，总部位于 San Jose
     - 四通在线与美国华源资讯合并，成立新浪网，王志东任总裁兼 CEO
+- 1998年12月8日，Sun 发布 JDK 1.2 版本，使用新名称 Java 2 Platform（Java2平台）
 
 #### 1999
 
@@ -249,6 +296,7 @@
 - 1999年3月，古永锵加盟搜狐公司，时任搜狐高级副总裁兼首席财务官
 - 1999年4月15日，马云推出 “阿里巴巴” 网站正式上线
 - 1999年，蔡崇信加入阿里巴巴，就任 CFO
+- 1999年6月，Sun 发布 J2SDK（Java 2 Platform Software Developing Kit）三个版本，分为标准版（Standard Edition, J2SE），企业版（Enterprise Edition, J2EE），微型版（Micro Edition, J2ME）
 - 1999年7月12日，中华网在纳斯达克上市，成为第一个在美国纳斯达克上市的中国概念网络公司
 - 1999年9月，曹国伟加入新浪
 - 1999年10月，孙正义投资阿里巴巴 2000万美元
@@ -257,6 +305,7 @@
 
 #### 2000
 
+- 2000年，Charles Geschke 退休，卸任 Adobe 总裁
 - 2000年1月1日，李彦宏成立百度公司
 - 2000年4月14日，新浪在美国纳斯达克上市
 - 2000年4月18日，张小龙以 1200万元的价格把 Foxmail 卖给博大公司，并任公司副总裁
@@ -270,7 +319,7 @@
 
 #### 2002
 
-- 2002年，Valve 聘请 Bram Cohen 开发设计的游戏平台 Steam 系统与 CS 1.4 Beta 发布
+- 2002年，Valve 聘请 Bram Cohen 开发设计的游戏平台 Steam 系统与 CS 1.4 Beta 一同发布
 - 2002年8月，方兴东创立 “博客中国”，为国内首个博客平台
 
 #### 2003
@@ -293,6 +342,7 @@
 - 2005年2月14日，Chad Hurley、陈士骏和 Jawed Karim 成立 YouTube
 - 2005年3月6日，豆瓣网正式上线
 - 2005年3月16日，腾讯收购 Foxmail 软件，张小龙加盟腾讯公司，任广州研发部总经理，全面负责并带领 “QQ邮箱” 团队
+- 2005年4月18日，Adobe 以 34亿美元收购 Macromedia
 - 2005年4月23日，Jawed Karim 上传了 YouTube 第一个视频
 - 2005年5月，Facebook 获得 Accel Partners 1270 万美元风险投资
 - 2005年6月，蔡力行出任台积电 CEO，张忠谋任董事长
