@@ -22,6 +22,10 @@
     - 图灵在《伦敦数据会文集》发表论文《论数字计算在决断难题中的应用》，附录里描述一种可以辅助数学研究的机器，后来被称为 “图灵机”
     - 图灵发表文章《可计算性与λ可定义性》，形成 “丘奇-图灵论点”
 
+#### 1938
+
+- 1938年3月1日，李秉喆在韩国大邱成立 “三星商会”
+
 #### 1939
 
 - 1939年1月1日，Bill Hewlett 和 David Packard 在 Palo Alto 的一间汽车库创建惠普公司（Hewlett-Packard, HP）
@@ -46,9 +50,13 @@
 
 - 1951年，王安创办 “王安实验室”（Wang Laboratories）
 
+#### 1954
+
+- 1954年11月，世界第一台晶体管收音机 Regency TR-1 投入市场，由印第安纳波利斯市工业发展工程师协会 Regency 部研制
+
 #### 1956
 
-- 1956年，“东京通信工业株式会社” 开发出世界第一台晶体管收音机 "TR-55"
+- 1956年，“东京通信工业株式会社” 开发出日本第一台晶体管收音机 "TR-55"
 
 #### 1958
 
@@ -82,6 +90,7 @@
 - 1969年
     - 美国国防部高级研究计划局（Advance Research Projects Agency, ARPA）建立 ARPANET 网络
     - Ken Thompson 以 BCPL 语言为基础，设计了 B语言，并用 B语言开发可运行在 PDP-7 的操作系统 UNiplexed Information and Computing System（UNICS），后被称为 UNIX
+    - 三星集团成立三星电子
 
 #### 1970
 
@@ -121,7 +130,9 @@
 
 #### 1978
 
-- 1978年，Larry Ellison 将公司迁往硅谷，并更名为 “关系式软件公司”（RSI）
+- 1978年
+    - Larry Ellison 将公司迁往硅谷，并更名为 “关系式软件公司”（RSI）
+    - 三星半导体和三星电子成为独立实体
 
 #### 1979
 
@@ -154,14 +165,18 @@
     - MILNET 从 ARPANET 分出，指定给美国机密军事部门使用，ARPANET 仍然被学术研究机构使用
 - 1983年1月9日，苹果公司推出新型电脑 Apple Lisa，这是全球首款将图形用户界面与鼠标结合起来的个人电脑
 - 1983年7月，任天堂推出 “FC游戏机”（红白机，也称 NES）
-- 1983年12月，雅达利准备了 400万份《ET外星人》，只卖出了 150万份，多出来的 250万份游戏卡带和其他卖不出去的存货一起被埋进了新墨西哥州的阿拉莫戈多垃圾镇。这一事件被称为雅达利大崩溃（Atari Shock）
+- 1983年12月
+    - 雅达利准备了 400万份《ET外星人》，只卖出了 150万份，多出来的 250万份游戏卡带和其他卖不出去的存货一起被埋进了新墨西哥州的阿拉莫戈多垃圾镇。这一事件被称为雅达利大崩溃（Atari Shock）
+    - 三星成功研发 64K DRAM VLSI 芯片
 
 #### 1984
 
 - 1984年
     - 柳传志等 11 名中科院计算所科技人员创办联想（Legend）
     - Leonard Bosack 和 Sandy Lernet 夫妇成立思科系统公司（Cisco Systems, Inc.）
-- 1984年5月，Michael Dell 成立戴尔公司（Dell, Inc.）
+- 1984年5月
+    - Michael Dell 成立戴尔公司（Dell, Inc.）
+    - 三星成立数据系统（三星SDS）
 
 #### 1985
 
@@ -185,6 +200,8 @@
     - 任正非成立华为公司
     - 张忠谋在台湾新竹科学院创建台湾积体电路制造公司（台积电）
     - Bill Hewlett 退休并辞去惠普副董事长职务，Walter Hewlett 和 David Woodley Packard 当选为公司董事
+    - 三星成立综合技术研究院（SAIT）
+- 1987年11月19日，三星创始人李秉喆逝世，其儿子李健熙继任三星会长
 
 #### 1988
 
@@ -199,8 +216,10 @@
 
 #### 1990
 
+- 1990年，雷军、王全国和李儒雄成立三色公司
 - 1990年2月，Adobe 发布 Photoshop 1.0
 - 1990年3月24日，王安因食道癌在波士顿逝世，享年 70岁
+- 1990年8月，三星电子成功研发 16M DRAM
 
 #### 1991
 
@@ -217,11 +236,12 @@
     - 王安电脑公司申请破产保护
     - MacroMind，Paracomp 和 Authorware 三家公司合并成立 Macromedia
     - Sun Green 项目小组成功开发 Oak语言
+    - 雷军加盟金山公司
 
 #### 1993
 
 - 1993年
-    - 伊利诺大学的国家超级计算机应用中心（NCSA）发布 "Mosaic" 浏览器
+    - 伊利诺大学的国家超级计算机应用中心（NCSA）发布 "NCSA Mosaic" 浏览器
     - 硅与神经键公司更名为混沌工作室（Chaos Studio）
     - Macromedia 在纳斯达克上市
     - Jonathan Gay 成立 Future Wave
@@ -236,6 +256,7 @@
 - 1994年4月4日，Mosaic 开发核心人物 Marc Andreessen 和 Silicon Graphic公司（SGI）创始人 Jim Clark 在加州成立 "Mosaic Communication Corp"
 - 1994年4月20日，中国通过美国 Sprint 公司连入 Internet 的 64K 国际专线开通，实现了与 Internet 的全功能连接
 - 1994年7月，Patrick Naughton 开发小型万维网浏览器 WebRunner（后改名为 HotJava）
+- 1994年底，浏览器 Mosaic Netscape 0.9 发布（后改名为 Netscape Navigator）
 - 1994年11月14日，Mosaic 公司更名为网景通信公司（Netscape Communications Corporation）
 
 #### 1995
@@ -243,13 +264,16 @@
 - 1995年
     - Jonathan Gay 设计开发了 Future Splash Animator
     - Sun 推出 Applet
+    - Brendan Eich 加入 Netscape，负责将 Scheme 语言嵌入 Netscape Navigator，暂时将该脚本语言命名为 Mocha
 - 1995年3月25日，Ward Cunningham 建立波特兰模式知识库（Portland Pattern Repository），这是最早的 wiki 系统
 - 1995年4月，马云成立杭州海博电脑服务有限公司，最初的三名员工是马云，马云夫人张瑛和何一兵
 - 1995年5月，马云推出 “中国黄页” 网站
 - 1995年5月23日，Sun 正式发布 Java 和 HotJava 浏览器
 - 1995年7月16日，Jeff Bezos 成立 Cadabra
 - 1995年7月，Jeff Bezos 将 Cadabra 更名为亚马逊（Amazon）
+- 1995年9月，Netscape Navigator 2.0 beta 发布，并首次由 LiveScript 实现（原名 Mocha）
 - 1995年9月4日，Pierre Omidyar 建立拍卖网站 Auctionweb
+- 1995年12月，Netscape Navigator 2.0 beta 3 发布，并将脚本语言从 LiveScript 改为 JavaScript
 
 #### 1996
 
@@ -280,7 +304,9 @@
 
 #### 1998
 
-- 1998年，Netscape 宣布浏览器绑定 Flash Player
+- 1998年
+    - Netscape 宣布浏览器绑定 Flash Player
+    - 程炳皓加入新浪
 - 1998年2月25日，爱特信推出搜狐产品，并更名为搜狐公司
 - 1998年3月，Meg Whitman 加盟 eBay，任公司总裁兼 CEO
 - 1998年6月18日，刘强东成立京东公司
@@ -308,8 +334,10 @@
 
 - 2000年，Charles Geschke 退休，卸任 Adobe 总裁
 - 2000年1月1日，李彦宏成立百度公司
+- 2000年3月10日，纳斯达克指数达到当时最高点 5048.62
 - 2000年4月14日，新浪在美国纳斯达克上市
 - 2000年4月18日，张小龙以 1200万元的价格把 Foxmail 卖给博大公司，并任公司副总裁
+- 2000年底，雷军出任金山软件总裁
 
 #### 2001
 
@@ -328,7 +356,8 @@
 #### 2003
 
 - 2003年4月，联想集团宣布启用新英文标识 "Lenovo"
-- 2003年9月，eUniverse 的Tom Anderson、Chris De Wolfe 和一个小团队发布第一版 MySpace
+- 2003年5月，蔡文胜创办 265.com
+- 2003年9月，eUniverse 的Tom Anderson、Chris De Wolfe 和一个开发小团队发布第一版 MySpace
 - 2003年12月，Ward Cunningham 加入微软
 
 #### 2004
@@ -378,6 +407,7 @@
 
 #### 2007
 
+- 2007年，谷歌中国收购 265
 - 2007年1月，Aaron Swartz 离开 Reddit
 - 2007年5月12日，王兴创办饭否
 - 2007年7月24日，Facebook 聘用前 YouTube CFO Gideon Yu 为 CFO，替换 Michael Sheridan
@@ -386,9 +416,13 @@
 
 #### 2008
 
-- 2008年3月，John Donahoe 就任 eBay CEO
+- 2008年2月，程炳皓离开新浪，成立北京开心人信息技术有限公司
+- 2008年3月
+    - John Donahoe 就任 eBay CEO
+    - 程炳皓推出开心网
 - 2008年6月，宏达电子公司英文名称更名为 HTC Corporation
 - 2008年6月10日，乔布斯于 “全球开发者大会” 上发布 3G版 iPhone
+- 2008年10月，吴欣鸿在厦门创办美图公司，美图秀秀上线
 - 2008年11月1日，中本聪（Satoshi Nakamoto）在一个密码学评论组发表了一篇研讨陈述，陈述其对电子货币的设想
 
 #### 2009
@@ -405,25 +439,31 @@
 
 - 2010年，Aaron Swartz 成立 Demand Progess，反对《禁止网络盗版法案（SOPA）》和《保护知识产权法案（PIPA）》
 - 2010年3月4日，王兴推出美团网
-- 2010年4月6日，雷军成立小米公司
+- 2010年4月6日，雷军成立小米公司，其余创始人分别是林斌、周光平、刘德、黎万强、黄江吉和洪峰
 - 2010年5月22日，美国佛罗里达州杰克逊维尔的程序员 Laszlo Hanyecz 用 10,000 BTC 购买了价值 25美元的披萨，这是比特币现实世界第一笔交易
+- 2010年6月，Ilkka Paananen 六人在赫尔辛基成立 Spercell Oy，其他五位创始人分别是 Mikko Kodisoja, Niko Derome, Visa Forsten, Lassi Leppinen 和 Petri Styrman
 - 2010年6月8日，苹果公司发布 iPhone 4
 - 2010年11月20日，腾讯微信正式立项，由张小龙负责
 - 2010年12月10日，小米公司正式发布米聊 Android 内测版
 
 #### 2011
 
-- 2011年，杨元庆担任联想集团董事长兼 CEO
+- 2011年
+    - 杨元庆担任联想集团董事长兼 CEO
+    - Supercell Oy 发布 MMORPG Gunshine
 - 2011年1月21日，腾讯推出针对 iPhone 用户的 “微信 1.0 beta”
+- 2011年7月11日，雷军出任金山软件董事长
 - 2011年8月2日，张小龙任腾讯公司高级副总裁，负责腾讯公司广州研发部的管理工作
 - 2011年8月25日，苹果宣布任命 Steve Jobs 为董事长，Tim Cook 接任 CEO
 - 2011年10月5日
     - 中华网向美国亚特兰大破产法庭提交破产申请
     - Steve Jobs 因患胰腺癌病逝，享年 56岁
+- 2011年11月，MySpace 停止访问
 
 #### 2012
 
 - 2012年8月，曹国伟担任新浪董事长
+- 2012年8月2日，Supercell Oy 发布手游 Clash of Clans iOS 版
 - 2012年8月23日，优酷土豆宣布合并为 “优酷土豆”
 
 #### 2013
@@ -444,3 +484,7 @@
 #### 2015
 
 - 2015年4月10日，PayPal 从 eBay 分拆
+
+#### 2016
+
+- 2016年7月21日，开心网创始人兼 CEO 程炳皓宣布离职
