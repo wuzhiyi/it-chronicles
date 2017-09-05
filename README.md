@@ -282,7 +282,7 @@
 
 - 1995年
     - Jonathan Gay 设计开发了 Future Splash Animator
-    - Sun 推出 Applet
+    - Sun 推出 Applet，并将 Oak 语言改名为 Java
     - Brendan Eich 加入 Netscape，负责将 Scheme 语言嵌入 Netscape Navigator，暂时将该脚本语言命名为 Mocha
 - 1995年1月18日，雅虎注册域名 yahoo.com
 - 1995年3月25日，Ward Cunningham 建立波特兰模式知识库（Portland Pattern Repository），这是最早的 wiki 系统
@@ -291,9 +291,9 @@
 - 1995年5月23日，Sun 正式发布 Java 和 HotJava 浏览器
 - 1995年7月16日，Jeff Bezos 成立 Cadabra
 - 1995年7月，Jeff Bezos 将 Cadabra 更名为亚马逊（Amazon）
-- 1995年9月，Netscape Navigator 2.0 beta 发布，并首次由 LiveScript 实现（原名 Mocha）
+- 1995年9月，Netscape Navigator 2.0 beta 发布，首次实现 LiveScript（原名 Mocha）
 - 1995年9月4日，Pierre Omidyar 建立拍卖网站 Auctionweb
-- 1995年12月，Netscape Navigator 2.0 beta 3 发布，并将脚本语言从 LiveScript 改为 JavaScript
+- 1995年12月，Netscape Navigator 2.0 beta 3 发布，并将脚本语言从 LiveScript 的名字改为 JavaScript
 
 #### 1996
 
