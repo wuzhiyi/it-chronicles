@@ -16,6 +16,10 @@
 
 - 1925年1月1日，AT&T 总裁 Walter Gifford 收购西方电子公司研究部门，成立 “贝尔电话实验室公司”，后改成贝尔实验室
 
+#### 1930
+
+- 1930年，J. Clarence Karcher 和 Eugene McDermott 创建 Geophysical Service Incorporated(GSI)
+
 #### 1937
 
 - 1937年
@@ -29,6 +33,14 @@
 #### 1939
 
 - 1939年1月1日，Bill Hewlett 和 David Packard 在 Palo Alto 的一间汽车库创建惠普公司（Hewlett-Packard, HP）
+
+#### 1941
+
+- 1941年12月6日，McDermott 等四人买下 GSI
+
+#### 1945
+
+- 1945年11月，帕特里克·哈格蒂被聘为 GSI 实验室和制造部门（Laboratory and Manufacturing, L&M）总经理
 
 #### 1946
 
@@ -48,7 +60,10 @@
 
 #### 1951
 
-- 1951年，王安创办 “王安实验室”（Wang Laboratories）
+- 1951年
+    - 王安创办 “王安实验室”（Wang Laboratories）
+    - GSI 公司改名为 “通用仪器”（General Instrument）
+    - 通用仪器公司改名为 “德州仪器”（Texas Instruments），GSI 成为德州仪器子公司
 
 #### 1954
 
@@ -65,6 +80,7 @@
 #### 1960
 
 - 1960年，诺基亚总裁 Bjorn Westerlund 建立诺基亚电子部
+- 1960年4月，John McCarthy 以《递回函数的符号表达式以及由及其运算的方式，第一部》为题，在 the communications of ACM 发表 LISP 设置，John McCarthy 的学生 Steve Russell 根据该论文在 IBM 704 上成功执行了第一版 LISP
 
 #### 1964
 
@@ -173,7 +189,7 @@
 
 - 1984年
     - 柳传志等 11 名中科院计算所科技人员创办联想（Legend）
-    - Leonard Bosack 和 Sandy Lernet 夫妇成立思科系统公司（Cisco Systems, Inc.）
+    - Leonard Bosack 和其夫人 Sandy Lernet 成立思科系统公司（Cisco Systems, Inc.）
 - 1984年5月
     - Michael Dell 成立戴尔公司（Dell, Inc.）
     - 三星成立数据系统（三星SDS）
@@ -185,6 +201,7 @@
     - 微软开始发行 Microsoft Windows 1.0
     - Adobe 公司推出 PostScript，最早在 Apple Laser Write 上出现
     - Sun 研制成功 SPARC 精简指令集（RISC）处理器
+    - 高通（Qualcomm）成立，其七位创始人分别是 Irwin Jacobs, Andrew Viterbi, Harvey White, Adelia Coffman, Andrew Cohen, Klein Gilhousen 和 Franklin Antonio
 - 1985年9月17日，Steve Jobs 辞去苹果公司董事长职位
 - 1985年，Steve Jobs 成立 NeXT 计算机公司
 
@@ -253,6 +270,8 @@
     - 混沌工作室被 Davidson & Associates，并正式更名为暴雪公司
     - 联想在香港证券交易所上市
     - 联想成立微机事业部，杨元庆执掌联想 PC
+- 1994年1月，杨致远和 David Filo 创建网站名为 "Jerry and David's guide to the World Wide Web"
+- 1994年3月，"Jerry and David's guide to the World Wide Web" 改名为 "Yahoo!"（雅虎）
 - 1994年4月4日，Mosaic 开发核心人物 Marc Andreessen 和 Silicon Graphic公司（SGI）创始人 Jim Clark 在加州成立 "Mosaic Communication Corp"
 - 1994年4月20日，中国通过美国 Sprint 公司连入 Internet 的 64K 国际专线开通，实现了与 Internet 的全功能连接
 - 1994年7月，Patrick Naughton 开发小型万维网浏览器 WebRunner（后改名为 HotJava）
@@ -265,6 +284,7 @@
     - Jonathan Gay 设计开发了 Future Splash Animator
     - Sun 推出 Applet
     - Brendan Eich 加入 Netscape，负责将 Scheme 语言嵌入 Netscape Navigator，暂时将该脚本语言命名为 Mocha
+- 1995年1月18日，雅虎注册域名 yahoo.com
 - 1995年3月25日，Ward Cunningham 建立波特兰模式知识库（Portland Pattern Repository），这是最早的 wiki 系统
 - 1995年4月，马云成立杭州海博电脑服务有限公司，最初的三名员工是马云，马云夫人张瑛和何一兵
 - 1995年5月，马云推出 “中国黄页” 网站
@@ -286,6 +306,7 @@
     - John Chambers 任思科总裁
     - 贝尔实验室以及 AT&T 的设备制造部门脱离 AT&T，成立朗讯科技（Lucent Technology）
 - 1996年1月，Sun 发布 Java 第一个开发工具包 JDK 1.0
+- 1996年4月12日，雅虎在纳斯达克上市
 - 1996年11月，Macromedia 收购 Future Wave，并将 Future Splash Animator 更名为 Flash
 - 1996年11月15日，“实华开网络咖啡屋” 在北京首都体育馆旁开设，成为中国第一家网吧
 - 1996年12月，育碧股票上市，并在上海和蒙特利尔设立分公司
@@ -325,7 +346,9 @@
 - 1999年，蔡崇信加入阿里巴巴，就任 CFO
 - 1999年6月，Sun 发布 J2SDK（Java 2 Platform Software Developing Kit）三个版本，分为标准版（Standard Edition, J2SE），企业版（Enterprise Edition, J2EE），微型版（Micro Edition, J2ME）
 - 1999年7月12日，中华网在纳斯达克上市，成为第一个在美国纳斯达克上市的中国概念网络公司
-- 1999年9月，曹国伟加入新浪
+- 1999年9月
+    - 曹国伟加入新浪
+    - 中国雅虎网站开通
 - 1999年10月，孙正义投资阿里巴巴 2000万美元
 - 1999年11月，陈天桥成立盛大网络
 
@@ -365,7 +388,7 @@
 - 2004年
     - 前微软中国总裁唐骏加盟盛大任总裁，陈天桥续任盛大董事长兼 CEO
     - Aaron Swartz 建立 Infogami 网站
-    - 暴雪娱乐制作的网络游戏《魔兽世界》在北美公测
+    - 暴雪娱乐制作的网络游戏《魔兽世界（World of Warcraft）》在北美公测
 - 2004年2月4日，Mark Zuckerberg 在 Andrew McCollum 和 Eduardo Saverin 的支持下，创办 “The Facebook”
 - 2004年2月底，Dustin Moskovitz 和 Chris Hughes 加入 Facebook
 - 2004年6月16日，腾讯公司在香港联交所主板公开上市（股票代号00700）
@@ -386,7 +409,7 @@
     - 蔡力行出任台积电 CEO，张忠谋任董事长
     - Steve Huffman 和 Alexis Ohanian 创建 Reddit
 - 2005年7月，Rupert Murdoch 的新闻集团以 5.8亿美元收购 MySpace
-- 2005年8月，阿里巴巴 10亿美元收购雅虎中国
+- 2005年8月11日，雅虎投资阿里巴巴 10亿美元，同时阿里巴巴收购雅虎中国
 - 2005年8月23日，Facebook 从 About Face 公司手中以 20万美元购得域名，并把 the 从名字中去掉
 - 2005年9月，周鸿祎成立奇虎360
 - 2005年10月，Ward Cunningham 加入 Eclipse 基金会
@@ -412,23 +435,29 @@
 - 2007年5月12日，王兴创办饭否
 - 2007年7月24日，Facebook 聘用前 YouTube CFO Gideon Yu 为 CFO，替换 Michael Sheridan
 - 2007年9月3日，“TOM 在线” 从美国纳斯达克及香港联合交易所退市，成为首只退市的中国互联网概念股票
+- 2007年10月，因无法负担房租，Brian Chesky 和 Joe Gebbia 在网上发广告愿意为短期租客提供充气床垫和早餐
 - 2007年12月20日，雷军辞去金山 CEO 职务
 
 #### 2008
 
-- 2008年2月，程炳皓离开新浪，成立北京开心人信息技术有限公司
+- 2008年2月
+    - 程炳皓离开新浪，成立北京开心人信息技术有限公司
+    - Nathan Blecharczyk（Chesky 前室友）作为 CTO 加入 Brian Chesky 和 Joe Gebbia 的项目，取名为 "AirBed & Breakfast"
 - 2008年3月
     - John Donahoe 就任 eBay CEO
     - 程炳皓推出开心网
 - 2008年6月，宏达电子公司英文名称更名为 HTC Corporation
 - 2008年6月10日，乔布斯于 “全球开发者大会” 上发布 3G版 iPhone
+- 2008年8月11日，airbedandbreakfast.com 正式上线
 - 2008年10月，吴欣鸿在厦门创办美图公司，美图秀秀上线
 - 2008年11月1日，中本聪（Satoshi Nakamoto）在一个密码学评论组发表了一篇研讨陈述，陈述其对电子货币的设想
 
 #### 2009
 
+- 2009年1月，airbedandbreakfast.com 的三位创始人受邀加入 Paul Graham Y Combinator 的冬季训练营
 - 2009年1月3日，中本聪在比特币创世区块里写下一句永远不可修改的话: "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks."
 - 2009年2月，柳传志担任联想集团董事长，杨元庆再任 CEO
+- 2009年3月，airbedandbreakfast.com 改名为 airbnb.com
 - 2009年4月20日，甲骨文以 74亿现金收购 Sun Microsystems
 - 2009年6月，张忠谋重任台积电 CEO
 - 2009年7月，新浪桌面产品事业部主管彭少彬主持开发微博
@@ -455,6 +484,7 @@
 - 2011年7月11日，雷军出任金山软件董事长
 - 2011年8月2日，张小龙任腾讯公司高级副总裁，负责腾讯公司广州研发部的管理工作
 - 2011年8月25日，苹果宣布任命 Steve Jobs 为董事长，Tim Cook 接任 CEO
+- 2011年10月1日，微信发布 3.0 版本，新增 “摇一摇” 功能
 - 2011年10月5日
     - 中华网向美国亚特兰大破产法庭提交破产申请
     - Steve Jobs 因患胰腺癌病逝，享年 56岁
@@ -462,6 +492,7 @@
 
 #### 2012
 
+- 2012年4月19日，微信发布 4.0 版本，新增 “朋友圈” 功能
 - 2012年8月，曹国伟担任新浪董事长
 - 2012年8月2日，Supercell Oy 发布手游 Clash of Clans iOS 版
 - 2012年8月23日，优酷土豆宣布合并为 “优酷土豆”
@@ -470,11 +501,13 @@
 
 - 2013年1月，大疆发布 “精灵”（Phantom），这是首款消费级无人机
 - 2013年1月11日，Aaron Swartz 在其纽约布鲁克林公寓内上吊自杀
+- 2013年8月31日，中国雅虎宣布停止服务
 - 2013年9月3日，微软宣布以约 71.7亿美元收购诺基亚手机业务，以及大批专利组合
 
 #### 2014
 
 - 2014年1月11日，匿名黑客组织入侵 MIT 网站，显示标语 "Today we fight back"
+- 2014年3月，微信开放支付功能
 - 2014年3月25日，Facebook 宣布，将以 20亿美元的总价收购 Oculus VR，预计 2014 年第二季度中完成交易
 - 2014年3月27日，“新浪微博” 更名为 “微博”
 - 2014年4月，微博在纳斯达克上市
