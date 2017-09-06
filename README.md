@@ -168,7 +168,6 @@
 
 - 1982年
     - RSI 更名为甲骨文（Oracle）
-    - Sun Microsystems 成立
     - 诺基亚生产了第一台北欧移动电话网络移动电话 Senator
     - Andy Bechtolsheim 和 Scott McNealy 创办 Sun Microsystems
     - 李东生加入 TTK
@@ -361,7 +360,7 @@
     - 中国雅虎网站开通
 - 1999年10月，孙正义投资阿里巴巴 2000万美元
 - 1999年11月，陈天桥成立盛大网络
-- 1999年底，Cofinity 发布其里程碑产品 PayPal
+- 1999年底，Confinity 发布其里程碑产品 PayPal
 
 
 #### 2000
