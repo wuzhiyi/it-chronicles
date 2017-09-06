@@ -267,7 +267,7 @@
 #### 1994
 
 - 1994年
-    - 混沌工作室被 Davidson & Associates，并正式更名为暴雪公司
+    - 混沌工作室被 Davidson & Associates 收购，并更名为暴雪公司
     - 联想在香港证券交易所上市
     - 联想成立微机事业部，杨元庆执掌联想 PC
 - 1994年1月，杨致远和 David Filo 创建网站名为 "Jerry and David's guide to the World Wide Web"
@@ -284,6 +284,7 @@
     - Jonathan Gay 设计开发了 Future Splash Animator
     - Sun 推出 Applet，并将 Oak 语言改名为 Java
     - Brendan Eich 加入 Netscape，负责将 Scheme 语言嵌入 Netscape Navigator，暂时将该脚本语言命名为 Mocha
+    - Elon Musk 和其弟弟 Kimbal Musk 创办 Zip2
 - 1995年1月18日，雅虎注册域名 yahoo.com
 - 1995年3月25日，Ward Cunningham 建立波特兰模式知识库（Portland Pattern Repository），这是最早的 wiki 系统
 - 1995年4月，马云成立杭州海博电脑服务有限公司，最初的三名员工是马云，马云夫人张瑛和何一兵
@@ -305,6 +306,7 @@
     - Gabe Newell 和 Mike Harrington 一同创建 Valve 软件公司（Valve Software）
     - John Chambers 任思科总裁
     - 贝尔实验室以及 AT&T 的设备制造部门脱离 AT&T，成立朗讯科技（Lucent Technology）
+    - Peter Thiel 成立 Thiel Capital
 - 1996年1月，Sun 发布 Java 第一个开发工具包 JDK 1.0
 - 1996年4月12日，雅虎在纳斯达克上市
 - 1996年11月，Macromedia 收购 Future Wave，并将 Future Splash Animator 更名为 Flash
@@ -334,14 +336,18 @@
 - 1998年9月4日，Larry Page 和 Sergey Brin 共同创建谷歌公司（Google）
 - 1998年11月11日，马化腾成立腾讯公司，另四位创始人为张志东、许晨晔、陈一丹和曾李菁
 - 1998年12月
-    - Peter Thiel 和 Max Levchin 成立 PayPal，总部位于 San Jose
+    - Peter Thiel，Max Levchin 和 Luke Nosek 成立 Confinity，总部位于 San Jose
     - 四通在线与美国华源资讯合并，成立新浪网，王志东任总裁兼 CEO
 - 1998年12月8日，Sun 发布 JDK 1.2 版本，使用新名称 Java 2 Platform（Java2平台）
 
 #### 1999
 
-- 1999年2月，腾讯开发出即时通讯网络工具 OICQ（后更名为 QQ）
-- 1999年3月，古永锵加盟搜狐公司，时任搜狐高级副总裁兼首席财务官
+- 1999年2月
+    - 腾讯开发出即时通讯网络工具 OICQ（后更名为 QQ）
+    - 康柏（Compaq）公司以 3.07亿美元现金和 3400万美元股票期权收购 Zip2
+- 1999年3月
+    - 古永锵加盟搜狐公司，时任搜狐高级副总裁兼首席财务官
+    - Elon Musk 创办在线金融服务和电子邮件支付业务公司 X.com
 - 1999年4月15日，马云推出 “阿里巴巴” 网站正式上线
 - 1999年，蔡崇信加入阿里巴巴，就任 CFO
 - 1999年6月，Sun 发布 J2SDK（Java 2 Platform Software Developing Kit）三个版本，分为标准版（Standard Edition, J2SE），企业版（Enterprise Edition, J2EE），微型版（Micro Edition, J2ME）
@@ -351,12 +357,14 @@
     - 中国雅虎网站开通
 - 1999年10月，孙正义投资阿里巴巴 2000万美元
 - 1999年11月，陈天桥成立盛大网络
+- 1999年底，Cofinity 发布其里程碑产品 PayPal
 
 
 #### 2000
 
 - 2000年，Charles Geschke 退休，卸任 Adobe 总裁
 - 2000年1月1日，李彦宏成立百度公司
+- 2000年3月，Confinity 与 X.com 合并
 - 2000年3月10日，纳斯达克指数达到当时最高点 5048.62
 - 2000年4月14日，新浪在美国纳斯达克上市
 - 2000年4月18日，张小龙以 1200万元的价格把 Foxmail 卖给博大公司，并任公司副总裁
@@ -364,7 +372,9 @@
 
 #### 2001
 
-- 2001年，杨元庆出任联想总裁兼 CEO
+- 2001年
+    - 杨元庆出任联想总裁兼 CEO
+    - X.com 改名为 PayPal
 - 2001年1月10日，Wikipedia 由 Jimmy Wales 发起
 - 2001年1月15日，英文版 Wikipedia 发布
 - 2001年6月，新浪董事会免除王志东在新浪的一切职务
@@ -373,13 +383,19 @@
 
 #### 2002
 
-- 2002年，Valve 聘请 Bram Cohen 开发设计的游戏平台 Steam 系统与 CS 1.4 Beta 一同发布
+- 2002年
+    - Valve 聘请 Bram Cohen 开发设计的游戏平台 Steam 系统与 CS 1.4 Beta 一同发布
+    - Thiel Capital 改名为 Clarium Capital
+    - PayPal 上市
+- 2002年7月，eBay 以 15亿 美元收购 PayPal
 - 2002年8月，方兴东创立 “博客中国”，为国内首个博客平台
 
 #### 2003
 
 - 2003年4月，联想集团宣布启用新英文标识 "Lenovo"
-- 2003年5月，蔡文胜创办 265.com
+- 2003年5月
+    - 蔡文胜创办 265.com
+    - Peter Thiel 创建 Palantir Technologies, Inc.
 - 2003年9月，eUniverse 的Tom Anderson、Chris De Wolfe 和一个开发小团队发布第一版 MySpace
 - 2003年12月，Ward Cunningham 加入微软
 
@@ -389,9 +405,11 @@
     - 前微软中国总裁唐骏加盟盛大任总裁，陈天桥续任盛大董事长兼 CEO
     - Aaron Swartz 建立 Infogami 网站
     - 暴雪娱乐制作的网络游戏《魔兽世界（World of Warcraft）》在北美公测
+    - Peter Thiel 聘请 Alex Karp 为 Palantir CEO
 - 2004年2月4日，Mark Zuckerberg 在 Andrew McCollum 和 Eduardo Saverin 的支持下，创办 “The Facebook”
 - 2004年2月底，Dustin Moskovitz 和 Chris Hughes 加入 Facebook
 - 2004年6月16日，腾讯公司在香港联交所主板公开上市（股票代号00700）
+- 2004年8月，Peter Thiel 投资 Facebook 50万美元，并加入董事会，这是 Facebook 第一笔外部投资
 - 2004年10月，杨勃开始开发豆瓣网
 - 2004年12月，马云创立第三方网上支付平台 “支付宝”
 - 2004年12月8日，杨元庆出任联想集团董事长
@@ -399,6 +417,7 @@
 
 #### 2005
 
+- 2005年1月，Peter Thiel, Ken Howery 和 Luke Nosek 创建 Founders Fund
 - 2005年2月14日，Chad Hurley、陈士骏和 Jawed Karim 成立 YouTube
 - 2005年3月6日，豆瓣网正式上线
 - 2005年3月16日，腾讯收购 Foxmail 软件，张小龙加盟腾讯公司，任广州研发部总经理，全面负责并带领 “QQ邮箱” 团队
@@ -420,7 +439,9 @@
 
 #### 2006
 
-- 2006年，汪滔在深圳成立大疆创新公司（DJI-Innovation）
+- 2006年
+    - 汪滔在深圳成立大疆创新公司（DJI-Innovation）
+    - Sean Parker 加入 Founders Fund
 - 2006年1月，Reddit 与 Infogami 合并，Aaron Swartz 加入 Reddit
 - 2006年6月21日，合一网络发布 “优酷网” 公测
 - 2006年8月，曾鸣加入阿里巴巴集团任集团参谋部资深副总裁
