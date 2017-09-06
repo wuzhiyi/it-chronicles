@@ -172,6 +172,7 @@
     - 诺基亚生产了第一台北欧移动电话网络移动电话 Senator
     - Andy Bechtolsheim 和 Scott McNealy 创办 Sun Microsystems
     - 李东生加入 TTK
+- 1982年2月，三位从德州仪器离职的高级经理 Rod Canion, Jim Harris 和 Bill Murto 成立康柏公司（Compaq）
 - 1982年11月，John Warnock 和 Charles Geschke 共同创建 Adobe 公司
 
 #### 1983
@@ -292,6 +293,7 @@
 - 1995年5月23日，Sun 正式发布 Java 和 HotJava 浏览器
 - 1995年7月16日，Jeff Bezos 成立 Cadabra
 - 1995年7月，Jeff Bezos 将 Cadabra 更名为亚马逊（Amazon）
+- 1995年8月24日，MSN 正式上线
 - 1995年9月，Netscape Navigator 2.0 beta 发布，首次实现 LiveScript（原名 Mocha）
 - 1995年9月4日，Pierre Omidyar 建立拍卖网站 Auctionweb
 - 1995年12月，Netscape Navigator 2.0 beta 3 发布，并将脚本语言从 LiveScript 的名字改为 JavaScript
@@ -324,6 +326,7 @@
     - 王雪红、卓火土和周永明创立宏达电子公司（High Tech Computer Corporation）
 - 1997年9月，Auctionweb 更名为 eBay
 - 1997年9月16日，Steve Jobs 担任苹果公司 CEO
+- 1997年12月31日，微软购买 Hotmail，连同其用户整合到 MSN 网站
 
 #### 1998
 
@@ -352,6 +355,7 @@
 - 1999年，蔡崇信加入阿里巴巴，就任 CFO
 - 1999年6月，Sun 发布 J2SDK（Java 2 Platform Software Developing Kit）三个版本，分为标准版（Standard Edition, J2SE），企业版（Enterprise Edition, J2EE），微型版（Micro Edition, J2ME）
 - 1999年7月12日，中华网在纳斯达克上市，成为第一个在美国纳斯达克上市的中国概念网络公司
+- 1999年7月22日，MSN 引入 MSN Messenger 服务
 - 1999年9月
     - 曹国伟加入新浪
     - 中国雅虎网站开通
@@ -387,6 +391,7 @@
     - Valve 聘请 Bram Cohen 开发设计的游戏平台 Steam 系统与 CS 1.4 Beta 一同发布
     - Thiel Capital 改名为 Clarium Capital
     - PayPal 上市
+    - Compaq 签署 242亿美元并购协议与惠普公司合并
 - 2002年7月，eBay 以 15亿 美元收购 PayPal
 - 2002年8月，方兴东创立 “博客中国”，为国内首个博客平台
 
@@ -522,6 +527,7 @@
 
 - 2013年1月，大疆发布 “精灵”（Phantom），这是首款消费级无人机
 - 2013年1月11日，Aaron Swartz 在其纽约布鲁克林公寓内上吊自杀
+- 2013年3月15日，微软关闭全球范围（除中国）MSN Messenger，改为 Skype
 - 2013年8月31日，中国雅虎宣布停止服务
 - 2013年9月3日，微软宣布以约 71.7亿美元收购诺基亚手机业务，以及大批专利组合
 
@@ -534,6 +540,7 @@
 - 2014年4月，微博在纳斯达克上市
 - 2014年5月6日，腾讯公司成立微信事业群，由张小龙担任微信事业群总裁
 - 2014年7月20日，Facebook 宣布，收购 Oculus VR 的交易正式结束
+- 2014年10月31日，MSN Messenger 正式退出中国市场，改为 Skype
 
 #### 2015
 
