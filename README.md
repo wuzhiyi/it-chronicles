@@ -190,6 +190,7 @@
 - 1984年
     - 柳传志等 11 名中科院计算所科技人员创办联想（Legend）
     - Leonard Bosack 和其夫人 Sandy Lernet 成立思科系统公司（Cisco Systems, Inc.）
+    - Andy Gavin 和 Jason Rubin 果酱软件（JAM Software, Inc.）
 - 1984年5月
     - Michael Dell 成立戴尔公司（Dell, Inc.）
     - 三星成立数据系统（三星SDS）
@@ -230,6 +231,7 @@
     - 柳传志任联想总裁
     - MILNET 实现与 NSFNET 连接，采用新名称 Internet，ARPANET 宣告解散
     - ANSI 发布第一个完整的 C语言标准，ANSI X3.159-1989，简称 “C89”
+- 1989年9月9日，果酱软件改名为顽皮狗（Naughty Dog）
 
 #### 1990
 
@@ -295,7 +297,7 @@
 - 1995年8月24日，MSN 正式上线
 - 1995年9月，Netscape Navigator 2.0 beta 发布，首次实现 LiveScript（原名 Mocha）
 - 1995年9月4日，Pierre Omidyar 建立拍卖网站 Auctionweb
-- 1995年12月，Netscape Navigator 2.0 beta 3 发布，并将脚本语言从 LiveScript 的名字改为 JavaScript
+- 1995年12月，Netscape Navigator 2.0 beta 3 发布，并将脚本语言的名字从 LiveScript 改为 JavaScript
 
 #### 1996
 
