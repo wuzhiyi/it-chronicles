@@ -174,6 +174,7 @@
 
 #### 1980
 
+- 1980年，张铠卿之子张旋龙接管香港金山公司
 - 1980年12月12日，苹果公司 IPO
 
 #### 1981
@@ -241,7 +242,9 @@
 
 #### 1988
 
-- 1988年，Adobe 发布 Illustrator 1.0
+- 1988年
+    - Adobe 发布 Illustrator 1.0
+    - 求伯君加入香港金山公司
 
 #### 1989
 
@@ -249,6 +252,7 @@
     - 柳传志任联想总裁
     - MILNET 实现与 NSFNET 连接，采用新名称 Internet，ARPANET 宣告解散
     - ANSI 发布第一个完整的 C语言标准，ANSI X3.159-1989，简称 “C89”
+    - 金山发布 WPS 1.0 和金山 I 型汉卡
 - 1989年9月9日，果酱软件改名为顽皮狗（Naughty Dog）
 
 #### 1990
@@ -266,6 +270,7 @@
     - Sun 成立 Green 项目小组，由 Patrick Naughton、James Gosling 和 Mike Sheridan 等人组成
     - AT&T 收购 NCR
     - NCR 收购 Teradata 公司，NCR Teradata 成为世界上最强大的数据仓储
+    - 史玉柱成立巨人公司，推出 M-6403
 
 #### 1992
 
@@ -293,6 +298,7 @@
     - 联想在香港证券交易所上市
     - 联想成立微机事业部，杨元庆执掌联想 PC
     - NCR 更名为 AT&T Global Information Solutions（GIS）
+    - 求伯君成立北京金山软件公司
 - 1994年1月，杨致远和 David Filo 创建网站名为 "Jerry and David's guide to the World Wide Web"
 - 1994年3月，"Jerry and David's guide to the World Wide Web" 改名为 "Yahoo!"（雅虎）
 - 1994年4月4日，Mosaic 开发核心人物 Marc Andreessen 和 Silicon Graphic公司（SGI）创始人 Jim Clark 在加州成立 "Mosaic Communication Corp"
@@ -332,6 +338,7 @@
     - 贝尔实验室以及 AT&T 的设备制造部门脱离 AT&T，成立朗讯科技（Lucent Technology）
     - Peter Thiel 成立 Thiel Capital
     - AT&T GIS 重新更名为 NCR
+    - 金山成立西山居工作室
 - 1996年1月，Sun 发布 Java 第一个开发工具包 JDK 1.0
 - 1996年4月12日，雅虎在纳斯达克上市
 - 1996年11月，Macromedia 收购 Future Wave，并将 Future Splash Animator 更名为 Flash
@@ -391,7 +398,9 @@
 
 #### 2000
 
-- 2000年，Charles Geschke 退休，卸任 Adobe 总裁
+- 2000年
+    - Charles Geschke 退休，卸任 Adobe 总裁
+    - 金山发布 “金山毒霸”
 - 2000年1月1日，李彦宏成立百度公司
 - 2000年3月，Confinity 与 X.com 合并
 - 2000年3月10日，纳斯达克指数达到当时最高点 5048.62
@@ -442,6 +451,7 @@
 - 2004年6月16日，腾讯公司在香港联交所主板公开上市（股票代号00700）
 - 2004年8月，Peter Thiel 投资 Facebook 50万美元，并加入董事会，这是 Facebook 第一笔外部投资
 - 2004年10月，杨勃开始开发豆瓣网
+- 2004年11月18日，史玉柱成立征途网络科技有限公司
 - 2004年12月，马云创立第三方网上支付平台 “支付宝”
 - 2004年12月8日，杨元庆出任联想集团董事长
 - 2004年12月8日，联想以 12.5亿美元收购 IBM PC 部门
@@ -485,6 +495,7 @@
 - 2007年
     - 谷歌中国收购 265
     - Teradata 从 NCR 拆分，独立上市
+    - 金山公司香港上市
 - 2007年1月，Aaron Swartz 离开 Reddit
 - 2007年5月12日，王兴创办饭否
 - 2007年7月24日，Facebook 聘用前 YouTube CFO Gideon Yu 为 CFO，替换 Michael Sheridan
