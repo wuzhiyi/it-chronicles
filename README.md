@@ -1,5 +1,13 @@
 ### IT 编年史
 
+#### 1884
+
+- John H. Patterson 成立 National Cash Register Company
+
+#### 1906
+
+- Charles F. Kettering 设计了世界上第一台电动收款机
+
 #### 1911
 
 - 1911年6月5日，在纽约恩迪科特注册成立 CTR 公司，由三个独立公司合并而成，分别是列表机公司（1896年成立于华盛顿），计算表公司（1901年成立于俄亥俄州代顿），国际时代唱片公司（1900年成立于纽约州恩迪科特）
@@ -65,6 +73,10 @@
     - GSI 公司改名为 “通用仪器”（General Instrument）
     - 通用仪器公司改名为 “德州仪器”（Texas Instruments），GSI 成为德州仪器子公司
 
+#### 1953
+
+- 1953年，NCR 成立电子部门
+
 #### 1954
 
 - 1954年11月，世界第一台晶体管收音机 Regency TR-1 投入市场，由印第安纳波利斯市工业发展工程师协会 Regency 部研制
@@ -123,9 +135,15 @@
     - 王安成功研制半导体文字处理机
     - D.M. Ritchie 在 B语言基础上设计了新的语言，取名为 C语言
 
+#### 1973
+
+- 1973年，张铠卿创建香港金山公司
+
 #### 1974
 
-- 1974年，Steve Jobs 加入雅达利
+- 1974年
+    - Steve Jobs 加入雅达利
+    - National Cash Register Company 更名为 NCR Corporation
 - 1974年7月，Ken Thompson 和 Dennis Ritchie 在 The Communications of ACM 发表了第一篇 Unix 论文 "The UNIX Time Sharing System"
 
 #### 1975
@@ -246,6 +264,8 @@
     - John Chambers 加入思科公司
     - Mike Morhaime，Allen Adham 和 Frank Pearce 共同创立硅与神经键公司（Silicon & Synapse）
     - Sun 成立 Green 项目小组，由 Patrick Naughton、James Gosling 和 Mike Sheridan 等人组成
+    - AT&T 收购 NCR
+    - NCR 收购 Teradata 公司，NCR Teradata 成为世界上最强大的数据仓储
 
 #### 1992
 
@@ -272,6 +292,7 @@
     - 混沌工作室被 Davidson & Associates 收购，并更名为暴雪公司
     - 联想在香港证券交易所上市
     - 联想成立微机事业部，杨元庆执掌联想 PC
+    - NCR 更名为 AT&T Global Information Solutions（GIS）
 - 1994年1月，杨致远和 David Filo 创建网站名为 "Jerry and David's guide to the World Wide Web"
 - 1994年3月，"Jerry and David's guide to the World Wide Web" 改名为 "Yahoo!"（雅虎）
 - 1994年4月4日，Mosaic 开发核心人物 Marc Andreessen 和 Silicon Graphic公司（SGI）创始人 Jim Clark 在加州成立 "Mosaic Communication Corp"
@@ -310,6 +331,7 @@
     - John Chambers 任思科总裁
     - 贝尔实验室以及 AT&T 的设备制造部门脱离 AT&T，成立朗讯科技（Lucent Technology）
     - Peter Thiel 成立 Thiel Capital
+    - AT&T GIS 重新更名为 NCR
 - 1996年1月，Sun 发布 Java 第一个开发工具包 JDK 1.0
 - 1996年4月12日，雅虎在纳斯达克上市
 - 1996年11月，Macromedia 收购 Future Wave，并将 Future Splash Animator 更名为 Flash
@@ -319,7 +341,9 @@
 
 #### 1997
 
-- 1997年1月，张小龙开发的 Foxmail 1.0 beta（英文版）面世
+- 1997年1月
+    - 张小龙开发的 Foxmail 1.0 beta（英文版）面世
+    - NCR 与 AT&T 分离，成为独立上市公司
 - 1997年2月，张树新创立的瀛海威全国大网开通，成为中国最早也是最大的民营 ISP、ICP
 - 1997年5月，丁磊成立网易公司
 - 1997年5月15日
@@ -402,6 +426,7 @@
 - 2003年5月
     - 蔡文胜创办 265.com
     - Peter Thiel 创建 Palantir Technologies, Inc.
+    - 阿里巴巴创建淘宝网
 - 2003年9月，eUniverse 的Tom Anderson、Chris De Wolfe 和一个开发小团队发布第一版 MySpace
 - 2003年12月，Ward Cunningham 加入微软
 
@@ -457,7 +482,9 @@
 
 #### 2007
 
-- 2007年，谷歌中国收购 265
+- 2007年
+    - 谷歌中国收购 265
+    - Teradata 从 NCR 拆分，独立上市
 - 2007年1月，Aaron Swartz 离开 Reddit
 - 2007年5月12日，王兴创办饭否
 - 2007年7月24日，Facebook 聘用前 YouTube CFO Gideon Yu 为 CFO，替换 Michael Sheridan
@@ -519,6 +546,7 @@
 
 #### 2012
 
+- 2012年1月11日，淘宝商城更名为 “天猫”
 - 2012年4月19日，微信发布 4.0 版本，新增 “朋友圈” 功能
 - 2012年8月，曹国伟担任新浪董事长
 - 2012年8月2日，Supercell Oy 发布手游 Clash of Clans iOS 版
