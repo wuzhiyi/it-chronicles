@@ -535,7 +535,7 @@
 - 2010年3月4日，王兴推出美团网
 - 2010年4月6日，雷军成立小米公司，其余创始人分别是林斌、周光平、刘德、黎万强、黄江吉和洪峰
 - 2010年5月22日，美国佛罗里达州杰克逊维尔的程序员 Laszlo Hanyecz 用 10,000 BTC 购买了价值 25美元的披萨，这是比特币现实世界第一笔交易
-- 2010年6月，Ilkka Paananen 六人在赫尔辛基成立 Spercell Oy，其他五位创始人分别是 Mikko Kodisoja, Niko Derome, Visa Forsten, Lassi Leppinen 和 Petri Styrman
+- 2010年6月，Ilkka Paananen 六人在赫尔辛基成立 Supercell Oy，其他五位创始人分别是 Mikko Kodisoja, Niko Derome, Visa Forsten, Lassi Leppinen 和 Petri Styrman
 - 2010年6月8日，苹果公司发布 iPhone 4
 - 2010年11月20日，腾讯微信正式立项，由张小龙负责
 - 2010年12月10日，小米公司正式发布米聊 Android 内测版
@@ -575,7 +575,7 @@
 
 - 2014年1月11日，匿名黑客组织入侵 MIT 网站，显示标语 "Today we fight back"
 - 2014年3月，微信开放支付功能
-- 2014年3月21日，火币网 Litecoin 价格暴跌，盘中最低价 1元
+- 2014年3月21日，火币网 Litecoin 价格暴跌，盘中最低价 1元，这一事件我称为辣条大爆仓
 - 2014年3月25日，Facebook 宣布，将以 20亿美元的总价收购 Oculus VR，预计 2014 年第二季度中完成交易
 - 2014年3月27日，“新浪微博” 更名为 “微博”
 - 2014年4月，微博在纳斯达克上市
