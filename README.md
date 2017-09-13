@@ -288,6 +288,7 @@
     - 硅与神经键公司更名为混沌工作室（Chaos Studio）
     - Macromedia 在纳斯达克上市
     - Jonathan Gay 成立 Future Wave
+    - Bob Young 成立 ACC 公司，主要业务是出售 Linux 和 Unix 的软件附件
 - 1993年12月，王志东得到四通集团 500万港币投资创办四通利方信息技术有限公司
 
 #### 1994
@@ -298,6 +299,7 @@
     - 联想成立微机事业部，杨元庆执掌联想 PC
     - NCR 更名为 AT&T Global Information Solutions（GIS）
     - 求伯君成立北京金山软件公司
+    - Marc Ewing 发布 Redhat Linux
 - 1994年1月，杨致远和 David Filo 创建网站名为 "Jerry and David's guide to the World Wide Web"
 - 1994年3月，"Jerry and David's guide to the World Wide Web" 改名为 "Yahoo!"（雅虎）
 - 1994年4月4日，Mosaic 开发核心人物 Marc Andreessen 和 Silicon Graphic公司（SGI）创始人 Jim Clark 在加州成立 "Mosaic Communication Corp"
@@ -313,6 +315,7 @@
     - Sun 推出 Applet，并将 Oak 语言改名为 Java
     - Brendan Eich 加入 Netscape，负责将 Scheme 语言嵌入 Netscape Navigator，暂时将该脚本语言命名为 Mocha
     - Elon Musk 和其弟弟 Kimbal Musk 创办 Zip2
+    - Bob Young 和 Ewing 合并成立红帽软件公司
 - 1995年1月18日，雅虎注册域名 yahoo.com
 - 1995年3月25日，Ward Cunningham 建立波特兰模式知识库（Portland Pattern Repository），这是最早的 wiki 系统
 - 1995年4月，马云成立杭州海博电脑服务有限公司，最初的三名员工是马云，马云夫人张瑛和何一兵
@@ -494,7 +497,7 @@
 #### 2007
 
 - 2007年
-    - 谷歌中国收购 265
+    - 谷歌中国收购 265.com
     - Teradata 从 NCR 拆分，独立上市
     - 金山公司香港上市
 - 2007年1月，Aaron Swartz 离开 Reddit
