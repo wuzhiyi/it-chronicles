@@ -92,7 +92,7 @@
 #### 1960
 
 - 1960年，诺基亚总裁 Bjorn Westerlund 建立诺基亚电子部
-- 1960年4月，John McCarthy 以《递回函数的符号表达式以及由及其运算的方式，第一部》为题，在 the communications of ACM 发表 LISP 设置，John McCarthy 的学生 Steve Russell 根据该论文在 IBM 704 上成功执行了第一版 LISP
+- 1960年4月，John McCarthy 以《递回函数的符号表达式以及由及其运算的方式，第一部》为题，在 Communications of the ACM 发表 LISP 设置，John McCarthy 的学生 Steve Russell 根据该论文在 IBM 704 上成功执行了第一版 LISP
 
 #### 1964
 
@@ -122,7 +122,7 @@
 
 #### 1970
 
-- 1970年6月，IBM 圣约瑟研究实验室 Edgar Frank Codd 在 Communications of ACM 上发表《大型共享数据库数据的关系模型》
+- 1970年6月，IBM 圣约瑟研究实验室 Edgar Frank Codd 在 Communications of the ACM 上发表《大型共享数据库数据的关系模型》
 
 #### 1971
 
@@ -144,7 +144,7 @@
 - 1974年
     - Steve Jobs 加入雅达利
     - National Cash Register Company 更名为 NCR Corporation
-- 1974年7月，Ken Thompson 和 Dennis Ritchie 在 The Communications of ACM 发表了第一篇 Unix 论文 "The UNIX Time Sharing System"
+- 1974年7月，Ken Thompson 和 Dennis Ritchie 在 Communications of The ACM 发表了第一篇 Unix 论文 "The UNIX Time Sharing System"
 
 #### 1975
 
@@ -222,8 +222,7 @@
     - Adobe 公司推出 PostScript，最早在 Apple Laser Write 上出现
     - Sun 研制成功 SPARC 精简指令集（RISC）处理器
     - 高通（Qualcomm）成立，其七位创始人分别是 Irwin Jacobs, Andrew Viterbi, Harvey White, Adelia Coffman, Andrew Cohen, Klein Gilhousen 和 Franklin Antonio
-- 1985年9月17日，Steve Jobs 辞去苹果公司董事长职位
-- 1985年，Steve Jobs 成立 NeXT 计算机公司
+- 1985年9月13日，Steve Jobs 辞去苹果公司董事长职位，并成立 NeXT 计算机公司
 
 #### 1986
 
@@ -339,6 +338,7 @@
     - Peter Thiel 成立 Thiel Capital
     - AT&T GIS 重新更名为 NCR
     - 金山成立西山居工作室
+    - Nick Szabo 第一次提出 “智能合约”（smart contract）概念
 - 1996年1月，Sun 发布 Java 第一个开发工具包 JDK 1.0
 - 1996年4月12日，雅虎在纳斯达克上市
 - 1996年11月，Macromedia 收购 Future Wave，并将 Future Splash Animator 更名为 Flash
@@ -570,6 +570,7 @@
 - 2013年3月15日，微软关闭全球范围（除中国）MSN Messenger，改为 Skype
 - 2013年8月31日，中国雅虎宣布停止服务
 - 2013年9月3日，微软宣布以约 71.7亿美元收购诺基亚手机业务，以及大批专利组合
+- 2013年底，Vitalik Buterin 发布以太坊（Ethereum）白皮书
 
 #### 2014
 
@@ -581,6 +582,7 @@
 - 2014年4月，微博在纳斯达克上市
 - 2014年5月6日，腾讯公司成立微信事业群，由张小龙担任微信事业群总裁
 - 2014年7月20日，Facebook 宣布，收购 Oculus VR 的交易正式结束
+- 2014年7月24日，以太坊开始为期 42 天的在线众筹，参与者必须用 bitcoin 购买 ether（以太坊代币）
 - 2014年10月31日，MSN Messenger 正式退出中国市场，改为 Skype
 
 #### 2015
@@ -589,4 +591,5 @@
 
 #### 2016
 
+- 2016年6月17日，基于以太坊项目 the DAO 遭受黑客攻击，价值 5千万美元 Ether 被盗
 - 2016年7月21日，开心网创始人兼 CEO 程炳皓宣布离职
