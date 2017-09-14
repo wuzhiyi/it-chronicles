@@ -356,6 +356,7 @@
     - AT&T GIS 重新更名为 NCR
     - 金山成立西山居工作室
     - Nick Szabo 第一次提出 “智能合约”（smart contract）概念
+    - Andrew Grove 出版 *Only the Paranoid Survive*（《只有偏执狂才能生存》）
 - 1996年1月，Sun 发布 Java 第一个开发工具包 JDK 1.0
 - 1996年4月12日，雅虎在纳斯达克上市
 - 1996年11月，Macromedia 收购 Future Wave，并将 Future Splash Animator 更名为 Flash
@@ -617,7 +618,7 @@
 - 2014年5月6日，腾讯公司成立微信事业群，由张小龙担任微信事业群总裁
 - 2014年7月20日，Facebook 宣布，收购 Oculus VR 的交易正式结束
 - 2014年7月24日，以太坊开始为期 42 天的在线众筹，参与者必须用 bitcoin 购买 ether（以太坊代币）
-- 2014年9月16日，Peter Thiel 和 Blake Masters 出版 _Zero to One_（《从0到1》）
+- 2014年9月16日，Peter Thiel 和 Blake Masters 出版 *Zero to One*（《从0到1》）
 - 2014年10月31日，MSN Messenger 正式退出中国市场，改为 Skype
 
 #### 2015
