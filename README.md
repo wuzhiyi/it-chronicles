@@ -391,6 +391,7 @@
 - 1998年12月
     - Peter Thiel，Max Levchin 和 Luke Nosek 成立 Confinity，总部位于 San Jose
     - 四通在线与美国华源资讯合并，成立新浪网，王志东任总裁兼 CEO
+    - Sam Houser, Dan Houser, Terry Donovan 和 Jamie King 成立 Rockstar Games, Inc.
 - 1998年12月8日，Sun 发布 JDK 1.2 版本，使用新名称 Java 2 Platform（Java2平台）
 
 #### 1999
@@ -553,6 +554,7 @@
 - 2009年6月，张忠谋重任台积电 CEO
 - 2009年7月，新浪桌面产品事业部主管彭少彬主持开发微博
 - 2009年8月4日，校内网更名为人人网
+- 2009年8月11日，饭否关停
 - 2009年8月14日，新浪微博开始内测
 - 2009年10月，张一鸣创建垂直房产搜索引擎 “九九房”
 
@@ -567,6 +569,7 @@
 - 2010年6月，Ilkka Paananen 六人在赫尔辛基成立 Supercell Oy，其他五位创始人分别是 Mikko Kodisoja, Niko Derome, Visa Forsten, Lassi Leppinen 和 Petri Styrman
 - 2010年6月8日，苹果公司发布 iPhone 4
 - 2010年11月20日，腾讯微信正式立项，由张小龙负责
+- 2010年11月25日，饭否重新开启
 - 2010年12月10日，小米公司正式发布米聊 Android 内测版
 
 #### 2011
@@ -603,6 +606,7 @@
 - 2013年3月15日，微软关闭全球范围（除中国）MSN Messenger，改为 Skype
 - 2013年8月31日，中国雅虎宣布停止服务
 - 2013年9月3日，微软宣布以约 71.7亿美元收购诺基亚手机业务，以及大批专利组合
+- 2013年9月17日，Rockstar Games 游戏 *Grand Theft Auto V* 登陆 Play Station 3 和 Xbox 360
 - 2013年底，Vitalik Buterin 发布以太坊（Ethereum）白皮书
 
 #### 2014
@@ -610,7 +614,7 @@
 - 2014年1月11日，匿名黑客组织入侵 MIT 网站，显示标语 "Today we fight back"
 - 2014年3月
     - 微信开放支付功能
-    - Ben Horowitz 出版 _The Hard Thing About Hard Things_（《创业维艰》）
+    - Ben Horowitz 出版 *The Hard Thing About Hard Things*（《创业维艰》）
 - 2014年3月21日，火币网 Litecoin 价格暴跌，盘中最低价 1元，这一事件我称为辣条大爆仓
 - 2014年3月25日，Facebook 宣布，将以 20亿美元的总价收购 Oculus VR，预计 2014 年第二季度中完成交易
 - 2014年3月27日，“新浪微博” 更名为 “微博”
@@ -630,3 +634,7 @@
 - 2016年5月1日，吴军出版《浪潮之巅》
 - 2016年6月17日，基于以太坊项目 the DAO 遭受黑客攻击，价值 5千万美元 Ether 被盗
 - 2016年7月21日，开心网创始人兼 CEO 程炳皓宣布离职
+
+#### 2017
+
+- 2017年4月20日，腾讯发布 WeGame 平台
