@@ -162,6 +162,7 @@
 
 #### 1975
 
+- 1975年，Richard Stallman 和 Guy Steele 开发 Emacs
 - 1975年4月4日，Bill Gates 和 Paul Allen 创立微软（Microsoft）
 
 #### 1976
@@ -236,6 +237,8 @@
     - Adobe 公司推出 PostScript，最早在 Apple Laser Write 上出现
     - Sun 研制成功 SPARC 精简指令集（RISC）处理器
     - 高通（Qualcomm）成立，其七位创始人分别是 Irwin Jacobs, Andrew Viterbi, Harvey White, Adelia Coffman, Andrew Cohen, Klein Gilhousen 和 Franklin Antonio
+    - Richard Stallman 发表 GNU Manifesto（GNU 宣言）
+    - Richard Stallman 创立 Free Software Foundation（自由软件基金会）
 - 1985年9月13日，Steve Jobs 辞去苹果公司董事长职位，并成立 NeXT 计算机公司
 
 #### 1986
@@ -266,6 +269,7 @@
     - MILNET 实现与 NSFNET 连接，采用新名称 Internet，ARPANET 宣告解散
     - ANSI 发布第一个完整的 C语言标准，ANSI X3.159-1989，简称 “C89”
     - 金山发布 WPS 1.0 和金山 I 型汉卡
+    - Richard Stallman 起草 GNU General Public License, GNU GPL
 - 1989年9月9日，果酱软件改名为顽皮狗（Naughty Dog）
 
 #### 1990
