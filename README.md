@@ -334,6 +334,7 @@
     - Brendan Eich 加入 Netscape，负责将 Scheme 语言嵌入 Netscape Navigator，暂时将该脚本语言命名为 Mocha
     - Elon Musk 和其弟弟 Kimbal Musk 创办 Zip2
     - Bob Young 和 Ewing 合并成立红帽软件公司
+    - Paul Graham 创办 Viaweb，这是世界上第一个互联网应用程序
 - 1995年1月18日，雅虎注册域名 yahoo.com
 - 1995年3月25日，Ward Cunningham 建立波特兰模式知识库（Portland Pattern Repository），这是最早的 wiki 系统
 - 1995年4月，马云成立杭州海博电脑服务有限公司，最初的三名员工是马云，马云夫人张瑛和何一兵
@@ -344,6 +345,7 @@
 - 1995年8月24日，MSN 正式上线
 - 1995年9月，Netscape Navigator 2.0 beta 发布，首次实现 LiveScript（原名 Mocha）
 - 1995年9月4日，Pierre Omidyar 建立拍卖网站 Auctionweb
+- 1995年11月12日，Paul Graham 出版 *ANSI Common Lisp*
 - 1995年12月，Netscape Navigator 2.0 beta 3 发布，并将脚本语言的名字从 LiveScript 改为 JavaScript
 
 #### 1996
@@ -363,6 +365,7 @@
     - Andrew Grove 出版 *Only the Paranoid Survive*（《只有偏执狂才能生存》）
 - 1996年1月，Sun 发布 Java 第一个开发工具包 JDK 1.0
 - 1996年4月12日，雅虎在纳斯达克上市
+- 1996年10月14日，由 Matthias Ettrich 发起的 KDE（K Desktop Environment）项目发布
 - 1996年11月，Macromedia 收购 Future Wave，并将 Future Splash Animator 更名为 Flash
 - 1996年11月15日，“实华开网络咖啡屋” 在北京首都体育馆旁开设，成为中国第一家网吧
 - 1996年12月，育碧股票上市，并在上海和蒙特利尔设立分公司
@@ -387,6 +390,7 @@
 - 1998年
     - Netscape 宣布浏览器绑定 Flash Player
     - 程炳皓加入新浪
+    - 雅虎以 5000万美元收购 Paul Graham 的 Viaweb
 - 1998年2月25日，爱特信推出搜狐产品，并更名为搜狐公司
 - 1998年3月，Meg Whitman 加盟 eBay，任公司总裁兼 CEO
 - 1998年6月18日，刘强东成立京东公司
@@ -485,6 +489,7 @@
 
 #### 2005
 
+- 2005年，Paul Graham，Jessica Livingston，Trevor Blackwell 和 Robert Tappan Morris 成立 Y Combinator
 - 2005年1月，Peter Thiel, Ken Howery 和 Luke Nosek 创建 Founders Fund
 - 2005年2月14日，Chad Hurley、陈士骏和 Jawed Karim 成立 YouTube
 - 2005年3月6日，豆瓣网正式上线
