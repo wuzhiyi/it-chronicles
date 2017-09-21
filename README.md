@@ -225,7 +225,7 @@
 - 1984年
     - 柳传志等 11 名中科院计算所科技人员创办联想（Legend）
     - Leonard Bosack 和其夫人 Sandy Lernet 成立思科系统公司（Cisco Systems, Inc.）
-    - Andy Gavin 和 Jason Rubin 果酱软件（JAM Software, Inc.）
+    - Andy Gavin 和 Jason Rubin 创办果酱软件（JAM Software, Inc.）
 - 1984年5月
     - Michael Dell 成立戴尔公司（Dell, Inc.）
     - 三星成立数据系统（三星SDS）
@@ -355,7 +355,7 @@
 
 - 1996年
     - Gil Amelio 担任苹果公司 CEO
-    - 张朝阳成立爱特信公司，资金来自于 MIT 媒体实验室主任尼葛洛庞帝教授和 MIT 斯隆商学院爱德华·罗伯特教授的风险投资，成为中国第一家以风险投资资金建立的互联网公司
+    - 张朝阳成立爱特信公司
     - 苹果公司以 4亿美元收购 NeXT 公司
     - 暴雪收购位于加州红杉城的 Condor 公司，Condor 即改名为 Blizzard North（暴雪北方）
     - Gabe Newell 和 Mike Harrington 一同创建 Valve 软件公司（Valve Software）
@@ -370,7 +370,6 @@
 - 1996年4月12日，雅虎在纳斯达克上市
 - 1996年10月14日，由 Matthias Ettrich 发起的 KDE（K Desktop Environment）项目发布
 - 1996年11月，Macromedia 收购 Future Wave，并将 Future Splash Animator 更名为 Flash
-- 1996年11月15日，“实华开网络咖啡屋” 在北京首都体育馆旁开设，成为中国第一家网吧
 - 1996年12月，育碧股票上市，并在上海和蒙特利尔设立分公司
 - 1996年底，李东生出任 TCL 集团董事长兼总裁
 
@@ -424,7 +423,7 @@
     - 中国雅虎网站开通
 - 1999年10月，孙正义投资阿里巴巴 2000万美元
 - 1999年11月，陈天桥成立盛大网络
-- 1999年底，Confinity 发布其里程碑产品 PayPal
+- 1999年底，Confinity 发布产品 PayPal
 
 
 #### 2000
@@ -471,7 +470,7 @@
     - 蔡文胜创办 265.com
     - Peter Thiel 创建 Palantir Technologies, Inc.
     - 阿里巴巴创建淘宝网
-- 2003年9月，eUniverse 的Tom Anderson、Chris De Wolfe 和一个开发小团队发布第一版 MySpace
+- 2003年9月，eUniverse 的 Tom Anderson、Chris De Wolfe 和一个开发小团队发布第一版 MySpace
 - 2003年11月6日，网易游戏《梦幻西游》开始内测，徐宥箴作为策划
 - 2003年12月，Ward Cunningham 加入微软
 
@@ -508,7 +507,7 @@
     - Steve Huffman 和 Alexis Ohanian 创建 Reddit
 - 2005年7月，Rupert Murdoch 的新闻集团以 5.8亿美元收购 MySpace
 - 2005年8月11日，雅虎投资阿里巴巴 10亿美元，同时阿里巴巴收购雅虎中国
-- 2005年8月23日，Facebook 从 About Face 公司手中以 20万美元购得域名，并把 the 从名字中去掉
+- 2005年8月23日，Facebook 从 About Face 公司手中以 20万美元购得域名 facebok.com，并把 the 从名字中去掉
 - 2005年9月，周鸿祎成立奇虎360
 - 2005年10月，Ward Cunningham 加入 Eclipse 基金会
 - 2005年11月
@@ -564,7 +563,7 @@
 
 #### 2009
 
-- 2009年1月，airbedandbreakfast.com 的三位创始人受邀加入 Paul Graham Y Combinator 的冬季训练营
+- 2009年1月，airbedandbreakfast.com 的三位创始人受邀加入 Y Combinator 的冬季训练营
 - 2009年1月3日，中本聪在比特币创世区块里写下一句永远不可修改的话: "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks."
 - 2009年2月，柳传志担任联想集团董事长，杨元庆再任 CEO
 - 2009年3月，airbedandbreakfast.com 改名为 airbnb.com
@@ -613,7 +612,7 @@
 - 2012年5月，吴军出版《数学之美》
 - 2012年8月
     - 曹国伟担任新浪董事长
-    - 跳动字节发布第一版 “今日头条”
+    - 跳动字节发布 “今日头条”
 - 2012年8月2日，Supercell Oy 发布手游 Clash of Clans iOS 版
 - 2012年8月23日，优酷土豆宣布合并为 “优酷土豆”
 
@@ -624,7 +623,7 @@
 - 2013年3月15日，微软关闭全球范围（除中国）MSN Messenger，改为 Skype
 - 2013年8月31日，中国雅虎宣布停止服务
 - 2013年9月3日，微软宣布以约 71.7亿美元收购诺基亚手机业务，以及大批专利组合
-- 2013年9月17日，Rockstar Games 游戏 *Grand Theft Auto V* 登陆 Play Station 3 和 Xbox 360
+- 2013年9月17日，Rockstar Games 的 *Grand Theft Auto V* 登陆 Play Station 3 和 Xbox 360
 - 2013年底，Vitalik Buterin 发布以太坊（Ethereum）白皮书
 
 #### 2014
