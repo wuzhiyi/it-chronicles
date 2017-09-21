@@ -133,6 +133,7 @@
     - 美国国防部高级研究计划局（Advance Research Projects Agency, ARPA）建立 ARPANET 网络
     - Ken Thompson 以 BCPL 语言为基础，设计了 B语言，并用 B语言开发可运行在 PDP-7 的操作系统 UNiplexed Information and Computing System（UNICS），后被称为 UNIX
     - 三星集团成立三星电子
+- 1969年5月1日，从 Fairchild Semiconductor 离职的 Jerry Sanders 和其他七个同事成立 Advanced Micro Devices（AMD）
 
 #### 1970
 
@@ -298,6 +299,7 @@
     - MacroMind，Paracomp 和 Authorware 三家公司合并成立 Macromedia
     - Sun Green 项目小组成功开发 Oak语言
     - 雷军加盟金山公司
+- 1992年7月，SGI 发布 OpenGL 1.0
 
 #### 1993
 
@@ -307,6 +309,7 @@
     - Macromedia 在纳斯达克上市
     - Jonathan Gay 成立 Future Wave
     - Bob Young 成立 ACC 公司，主要业务是出售 Linux 和 Unix 的软件附件
+- 1993年1月，Jen-Hsun Huang（黄仁勋）、Chris Malachowsky 和 Curtis Priem 创办 NVIDIA Corporation（英伟达）
 - 1993年12月，王志东得到四通集团 500万港币投资创办四通利方信息技术有限公司
 
 #### 1994
@@ -404,6 +407,7 @@
 
 #### 1999
 
+- 1999年1月，NVIDIA 在 Nasdaq 上市
 - 1999年2月
     - 腾讯开发出即时通讯网络工具 OICQ（后更名为 QQ）
     - 康柏（Compaq）公司以 3.07亿美元现金和 3400万美元股票期权收购 Zip2
@@ -445,6 +449,7 @@
 - 2001年6月，新浪董事会免除王志东在新浪的一切职务
 - 2001年9月28日，盛大代理的网游 “传奇” 公测
 - 2001年11月，Sheryl Sandberg 加入 Google 任副总裁，负责全球在线销售和运营
+- 2001年11月15日，徐宥箴加入网易
 - 2001年12月，网易推出 ”大话西游 Online”，为首款国人自研 MMORPG
 
 #### 2002
@@ -467,6 +472,7 @@
     - Peter Thiel 创建 Palantir Technologies, Inc.
     - 阿里巴巴创建淘宝网
 - 2003年9月，eUniverse 的Tom Anderson、Chris De Wolfe 和一个开发小团队发布第一版 MySpace
+- 2003年11月6日，网易游戏《梦幻西游》开始内测，徐宥箴作为策划
 - 2003年12月，Ward Cunningham 加入微软
 
 #### 2004
@@ -515,9 +521,12 @@
 - 2006年
     - 汪滔在深圳成立大疆创新公司（DJI-Innovation）
     - Sean Parker 加入 Founders Fund
-- 2006年1月，Reddit 与 Infogami 合并，Aaron Swartz 加入 Reddit
+- 2006年1月
+    - Reddit 与 Infogami 合并，Aaron Swartz 加入 Reddit
+    - 徐宥箴从网易离职
 - 2006年2月，张一鸣加入旅游搜索网站酷讯
 - 2006年6月21日，合一网络发布 “优酷网” 公测
+- 2006年7月，徐宥箴创办多益网络
 - 2006年8月，曾鸣加入阿里巴巴集团任集团参谋部资深副总裁
 - 2006年10月，校内网被千橡互动集团收购
 - 2006年10月9日，Google 以 16.5亿美元收购 YouTube
