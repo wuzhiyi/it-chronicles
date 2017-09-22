@@ -366,6 +366,7 @@
     - 金山成立西山居工作室
     - Nick Szabo 第一次提出 “智能合约”（smart contract）概念
     - Andrew Grove 出版 *Only the Paranoid Survive*（《只有偏执狂才能生存》）
+    - Interplay Entertainment 成立 RPG 游戏开发小组，由 Feargus Urquhart 负责
 - 1996年1月，Sun 发布 Java 第一个开发工具包 JDK 1.0
 - 1996年4月12日，雅虎在纳斯达克上市
 - 1996年10月14日，由 Matthias Ettrich 发起的 KDE（K Desktop Environment）项目发布
@@ -396,6 +397,7 @@
 - 1998年2月25日，爱特信推出搜狐产品，并更名为搜狐公司
 - 1998年3月，Meg Whitman 加盟 eBay，任公司总裁兼 CEO
 - 1998年6月18日，刘强东成立京东公司
+- 1998年8月7日，Interplay 宣布将 Feargus Urquhart 开发组命名为 Black Isle Studios（黑岛工作室）
 - 1998年9月4日，Larry Page 和 Sergey Brin 共同创建谷歌公司（Google）
 - 1998年11月11日，马化腾成立腾讯公司，另四位创始人为张志东、许晨晔、陈一丹和曾李菁
 - 1998年12月
@@ -470,9 +472,11 @@
     - 蔡文胜创办 265.com
     - Peter Thiel 创建 Palantir Technologies, Inc.
     - 阿里巴巴创建淘宝网
+- 2003年6月12日，Feargus Urquhart，Chris Avellone，Chris Parker，Darren Monahan 和 Chris Jones 成立 Obsidian Entertainment（黑曜石娱乐）
 - 2003年9月，eUniverse 的 Tom Anderson、Chris De Wolfe 和一个开发小团队发布第一版 MySpace
 - 2003年11月6日，网易游戏《梦幻西游》开始内测，徐宥箴作为策划
 - 2003年12月，Ward Cunningham 加入微软
+- 2003年12月8日，Interplay 遣散 Black Isle Studios 全部成员
 
 #### 2004
 
