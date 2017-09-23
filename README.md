@@ -174,7 +174,8 @@
 #### 1977
 
 - 1977年
-    - 任天堂与三菱联合推出电视游戏平台 Color TV Game 6
+    - 任天堂与三菱联合推出游戏主机 Color TV Game 6，这是任天堂的第一款游戏主机
+    - 任天堂推出游戏主机 Color TV Game 15
     - 宫本茂加入任天堂，负责街机美术设计
 - 1977年6月，Larry Ellison 与 Robert Miner 创立 “软件开发实验室”（Software Development Labs），并将开发的数据库命名为甲骨文（Oracle）
 
@@ -183,14 +184,20 @@
 - 1978年
     - Larry Ellison 将公司迁往硅谷，并更名为 “关系式软件公司”（RSI）
     - 三星半导体和三星电子成为独立实体
+    - 任天堂推出游戏主机 Color TV Game Racing 112，内置 112 款赛车游戏
 
 #### 1979
 
-- 1979年，索尼推出 Walkman（随身听）
+- 1979年
+    - 索尼推出 Walkman（随身听）
+    - 任天堂推出游戏主机 Color TV Game Block Breaker
 
 #### 1980
 
-- 1980年，张铠卿之子张旋龙接管香港金山公司
+- 1980
+    - 张铠卿之子张旋龙接管香港金山公司
+    - 任天堂推出游戏主机 Computer TV Game（后被收藏人士称为 “幻之家用游戏机”）
+    - 任天堂推出携带式游戏主机 Game & Watch
 - 1980年12月12日，苹果公司 IPO
 
 #### 1981
@@ -215,7 +222,7 @@
     - Paul Allen 因病离开微软
     - MILNET 从 ARPANET 分出，指定给美国机密军事部门使用，ARPANET 仍然被学术研究机构使用
 - 1983年1月9日，苹果公司推出新型电脑 Apple Lisa，这是全球首款将图形用户界面与鼠标结合起来的个人电脑
-- 1983年7月，任天堂推出 “FC游戏机”（红白机，也称 NES）
+- 1983年7月，任天堂推出游戏主机 FAMICOM（官方也称为 Family Computer，FC，俗称红白机）
 - 1983年12月
     - 雅达利准备了 400万份《ET外星人》，只卖出了 150万份，多出来的 250万份游戏卡带和其他卖不出去的存货一起被埋进了新墨西哥州的阿拉莫戈多垃圾镇。这一事件被称为雅达利大崩溃（Atari Shock）
     - 三星成功研发 64K DRAM VLSI 芯片
@@ -240,6 +247,7 @@
     - 高通（Qualcomm）成立，其七位创始人分别是 Irwin Jacobs, Andrew Viterbi, Harvey White, Adelia Coffman, Andrew Cohen, Klein Gilhousen 和 Franklin Antonio
     - Richard Stallman 发表 GNU Manifesto（GNU 宣言）
     - Richard Stallman 创立 Free Software Foundation（自由软件基金会）
+    - 任天堂推出美版游戏主机 Nintendo Entertainment System（NES）
 - 1985年9月13日，Steve Jobs 辞去苹果公司董事长职位，并成立 NeXT 计算机公司
 
 #### 1986
@@ -271,11 +279,14 @@
     - ANSI 发布第一个完整的 C语言标准，ANSI X3.159-1989，简称 “C89”
     - 金山发布 WPS 1.0 和金山 I 型汉卡
     - Richard Stallman 起草 GNU General Public License, GNU GPL
+    - 任天堂推出游戏机 Game Boy
 - 1989年9月9日，果酱软件改名为顽皮狗（Naughty Dog）
 
 #### 1990
 
-- 1990年，雷军、王全国和李儒雄成立三色公司
+- 1990年
+    - 雷军、王全国和李儒雄成立三色公司
+    - 任天堂推出 Super Famicom（SFC，欧美简称 Super NES/SNES）
 - 1990年2月，Adobe 发布 Photoshop 1.0
 - 1990年3月24日，王安因食道癌在波士顿逝世，享年 70岁
 - 1990年8月，三星电子成功研发 16M DRAM
@@ -338,6 +349,7 @@
     - Elon Musk 和其弟弟 Kimbal Musk 创办 Zip2
     - Bob Young 和 Ewing 合并成立红帽软件公司
     - Paul Graham 创办 Viaweb，这是世界上第一个互联网应用程序
+    - 任天堂在日本推出 Virtual Boy
 - 1995年1月18日，雅虎注册域名 yahoo.com
 - 1995年3月25日，Ward Cunningham 建立波特兰模式知识库（Portland Pattern Repository），这是最早的 wiki 系统
 - 1995年4月，马云成立杭州海博电脑服务有限公司，最初的三名员工是马云，马云夫人张瑛和何一兵
@@ -367,6 +379,7 @@
     - Nick Szabo 第一次提出 “智能合约”（smart contract）概念
     - Andrew Grove 出版 *Only the Paranoid Survive*（《只有偏执狂才能生存》）
     - Interplay Entertainment 成立 RPG 游戏开发小组，由 Feargus Urquhart 负责
+    - 任天堂推出 Nintendo 64（N64）
 - 1996年1月，Sun 发布 Java 第一个开发工具包 JDK 1.0
 - 1996年4月12日，雅虎在纳斯达克上市
 - 1996年10月14日，由 Matthias Ettrich 发起的 KDE（K Desktop Environment）项目发布
@@ -408,6 +421,7 @@
 
 #### 1999
 
+- 1999年，任天堂推出 Game Boy Light
 - 1999年1月，NVIDIA 在 Nasdaq 上市
 - 1999年2月
     - 腾讯开发出即时通讯网络工具 OICQ（后更名为 QQ）
@@ -445,6 +459,7 @@
 - 2001年
     - 杨元庆出任联想总裁兼 CEO
     - X.com 改名为 PayPal
+    - 任天堂推出 Game Boy Advance（GBA）和 GameCube
 - 2001年1月10日，Wikipedia 由 Jimmy Wales 发起
 - 2001年1月15日，英文版 Wikipedia 发布
 - 2001年6月，新浪董事会免除王志东在新浪的一切职务
@@ -467,6 +482,7 @@
 
 #### 2003
 
+- 2003年，任天堂推出 Game Boy Advance SP（GBA SP）
 - 2003年4月，联想集团宣布启用新英文标识 "Lenovo"
 - 2003年5月
     - 蔡文胜创办 265.com
@@ -485,6 +501,7 @@
     - Aaron Swartz 建立 Infogami 网站
     - 暴雪娱乐制作的网络游戏《魔兽世界（World of Warcraft）》在北美公测
     - Peter Thiel 聘请 Alex Karp 为 Palantir CEO
+    - 任天堂推出 Nintendo DS（NDS）
 - 2004年2月4日，Mark Zuckerberg 在 Andrew McCollum 和 Eduardo Saverin 的支持下，创办 “The Facebook”，域名为 thefacebook.com
 - 2004年2月底，Dustin Moskovitz 和 Chris Hughes 加入 Facebook
 - 2004年6月16日，腾讯公司在香港联交所主板公开上市（股票代号00700）
@@ -498,7 +515,9 @@
 
 #### 2005
 
-- 2005年，Paul Graham，Jessica Livingston，Trevor Blackwell 和 Robert Tappan Morris 成立 Y Combinator
+- 2005年
+    - Paul Graham，Jessica Livingston，Trevor Blackwell 和 Robert Tappan Morris 成立 Y Combinator
+    - 任天堂推出 GBA 衍生机 Game Boy MICRO
 - 2005年1月，Peter Thiel, Ken Howery 和 Luke Nosek 创建 Founders Fund
 - 2005年2月14日，Chad Hurley、陈士骏和 Jawed Karim 成立 YouTube
 - 2005年3月6日，豆瓣网正式上线
@@ -524,6 +543,7 @@
 - 2006年
     - 汪滔在深圳成立大疆创新公司（DJI-Innovation）
     - Sean Parker 加入 Founders Fund
+    - 任天堂推出游戏主机 Wii
 - 2006年1月
     - Reddit 与 Infogami 合并，Aaron Swartz 加入 Reddit
     - 徐宥箴从网易离职
@@ -598,6 +618,7 @@
 - 2011年
     - 杨元庆担任联想集团董事长兼 CEO
     - Supercell Oy 发布 MMORPG Gunshine
+    - 任天堂推出 3DS
 - 2011年1月21日，腾讯推出针对 iPhone 用户的 “微信 1.0 beta”
 - 2011年7月11日，雷军出任金山软件董事长
 - 2011年8月2日，张小龙任腾讯公司高级副总裁，负责腾讯公司广州研发部的管理工作
@@ -610,6 +631,7 @@
 
 #### 2012
 
+- 2012年，任天堂推出 Wii 后续机种 Wii U
 - 2012年1月11日，淘宝商城更名为 “天猫”
 - 2012年3月，张一鸣成立 “跳动字节”
 - 2012年4月19日，微信发布 4.0 版本，新增 “朋友圈” 功能
@@ -655,7 +677,9 @@
 - 2016年5月1日，吴军出版《浪潮之巅》
 - 2016年6月17日，基于以太坊项目 the DAO 遭受黑客攻击，价值 5千万美元 Ether 被盗
 - 2016年7月21日，开心网创始人兼 CEO 程炳皓宣布离职
+- 2016年11月，任天堂宣布停产 Wii U
 
 #### 2017
 
+- 2017年3月3日，任天堂推出游戏主机 SWITCH
 - 2017年4月20日，腾讯发布 WeGame 平台
