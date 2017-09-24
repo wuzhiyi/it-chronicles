@@ -195,7 +195,7 @@
 
 #### 1976
 
-- 1976年4月1日，Steve Jobs，Stephen Wozniak 和 Ron Wayne 成立苹果电脑公司（Apple Computer Inc.）
+- 1976年4月1日，Steve Jobs，Stephen Wozniak 和 Ron Wayne 成立 Apple Computer Inc.
 - 1976年，IBM 研究院发表论文《R系统：数据库关系理论》，介绍了关系数据库理论和查询语言 SQL
 
 #### 1977
@@ -374,6 +374,7 @@
     - NCR 更名为 AT&T Global Information Solutions（GIS）
     - 求伯君成立北京金山软件公司
     - Marc Ewing 发布 Redhat Linux
+    - Marcin Iwiński 和 Michał Kiciński 成立 CD Projekt
 - 1994年1月，杨致远和 David Filo 创建网站名为 "Jerry and David's guide to the World Wide Web"
 - 1994年3月，"Jerry and David's guide to the World Wide Web" 改名为 "Yahoo!"（雅虎）
 - 1994年4月4日，Mosaic 开发核心人物 Marc Andreessen 和 Silicon Graphic公司（SGI）创始人 Jim Clark 在加州成立 "Mosaic Communication Corp"
@@ -480,6 +481,7 @@
     - 古永锵加盟搜狐公司，时任搜狐高级副总裁兼首席财务官
     - Elon Musk 创办在线金融服务和电子邮件支付业务公司 X.com
 - 1999年4月15日，马云推出 “阿里巴巴” 网站正式上线
+- 1999年5月18日，王俊涛创办电子商务网站 8848
 - 1999年，蔡崇信加入阿里巴巴，就任 CFO
 - 1999年6月，Sun 发布 J2SDK（Java 2 Platform Software Developing Kit）三个版本，分为标准版（Standard Edition, J2SE），企业版（Enterprise Edition, J2EE），微型版（Micro Edition, J2ME）
 - 1999年7月12日，中华网在纳斯达克上市，成为第一个在美国纳斯达克上市的中国概念网络公司
@@ -697,6 +699,7 @@
 - 2012年，任天堂推出 Wii 后续机种 Wii U
 - 2012年1月11日，淘宝商城更名为 “天猫”
 - 2012年3月，张一鸣成立 “跳动字节”
+- 2012年3月15日，Thatgamecompany 发布 PSN 游戏《风之旅人》(Journey)
 - 2012年4月19日，微信发布 4.0 版本，新增 “朋友圈” 功能
 - 2012年5月，吴军出版《数学之美》
 - 2012年8月
@@ -711,6 +714,7 @@
 - 2013年1月，大疆发布 “精灵”（Phantom），这是首款消费级无人机
 - 2013年1月11日，Aaron Swartz 在其纽约布鲁克林公寓内上吊自杀
 - 2013年3月15日，微软关闭全球范围（除中国）MSN Messenger，改为 Skype
+- 2013年3月26日，Irrational Games 发布游戏《生化奇兵：无限》
 - 2013年8月31日，中国雅虎宣布停止服务
 - 2013年9月3日，微软宣布以约 71.7亿美元收购诺基亚手机业务，以及大批专利组合
 - 2013年9月17日，Rockstar Games 的 *Grand Theft Auto V* 登陆 Play Station 3 和 Xbox 360
@@ -738,6 +742,7 @@
 #### 2015
 
 - 2015年4月10日，PayPal 从 eBay 分拆
+- 2015年5月19日，CD Projekt RED 发布其制作的单机游戏 *The Witcher 3: Wild Hunt*
 - 2015年7月11日，岩田聪因病去世，终年 55 岁
 - 2015年9月9日，Apple 发布 iPhone 6s 和 iPhone 6s Plus
 
