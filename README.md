@@ -124,28 +124,19 @@
 
 - 1960年，诺基亚总裁 Bjorn Westerlund 建立诺基亚电子部
 - 1960年4月，John McCarthy 以《递回函数的符号表达式以及由及其运算的方式，第一部》为题，在 Communications of the ACM 发表 LISP 设置，John McCarthy 的学生 Steve Russell 根据该论文在 IBM 704 上成功执行了第一版 LISP
-<<<<<<< HEAD
 - 1960年5月，Sony 发布世界第一台半导体电视 TV8-301
 - 1960年5月31日，Service Games Japan 关闭
 - 1960年6月3日，Nihon Goraku Bussan 接管 Service Games 业务
-=======
->>>>>>> parent of e4c85cd... Sony
 
 #### 1964
 
 - 1964年，王安推出用电晶体制造的桌上电脑
 
-<<<<<<< HEAD
 #### 1965
 
-<<<<<<< HEAD
-- 1965年8月，Sony 发布世界第一台家用录影机 CV2000
-=======
 - 1965年，Rosen Enterprises 和 Nihon Goraku Bussan 合并为新公司 Sega Enterprises，David Rosen 出任 CEO
->>>>>>> origin/master
+- 1965年8月，Sony 发布世界第一台家用录影机 CV2000
 
-=======
->>>>>>> parent of e4c85cd... Sony
 #### 1966
 
 - 1966年
@@ -222,14 +213,8 @@
 - 1978年
     - Larry Ellison 将公司迁往硅谷，并更名为 “关系式软件公司”（RSI）
     - 三星半导体和三星电子成为独立实体
-<<<<<<< HEAD
-<<<<<<< HEAD
     - Sony 发展革命性 CCD（charge-coupled device）感光元件技术
-=======
     - 任天堂推出游戏主机 Color TV Game Racing 112，内置 112 款赛车游戏
->>>>>>> origin/master
-=======
->>>>>>> parent of e4c85cd... Sony
 
 #### 1979
 
@@ -308,15 +293,9 @@
 - 1986年
     - Guillemot 五兄弟在法国成立育碧娱乐软件公司（Ubisoft Entertainment S.A）
     - Sun Microsystems 在纳斯达克上市，股票代号（SUNW）
-<<<<<<< HEAD
-<<<<<<< HEAD
-- 1986年6月，Sony 发布 32 位元电脑 MSX
-=======
     - 任天堂发布游戏《塞尔达传说》
     - Motorola 开创 *Six Sigma* 质量改善流程
->>>>>>> origin/master
-=======
->>>>>>> parent of e4c85cd... Sony
+- 1986年6月，Sony 发布 32 位元电脑 MSX
 
 #### 1987
 
