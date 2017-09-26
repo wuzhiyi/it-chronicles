@@ -122,12 +122,9 @@
 
 - 1960年，诺基亚总裁 Bjorn Westerlund 建立诺基亚电子部
 - 1960年4月，John McCarthy 以《递回函数的符号表达式以及由及其运算的方式，第一部》为题，在 Communications of the ACM 发表 LISP 设置，John McCarthy 的学生 Steve Russell 根据该论文在 IBM 704 上成功执行了第一版 LISP
-<<<<<<< HEAD
 - 1960年5月，Sony 发布世界第一台半导体电视 TV8-301
-=======
 - 1960年5月31日，Service Games Japan 关闭
 - 1960年6月3日，Nihon Goraku Bussan 接管 Service Games 业务
->>>>>>> origin/master
 
 #### 1964
 
