@@ -106,9 +106,11 @@
 
 #### 1955
 
-- 1955年
-    - William Shockley 离开贝尔实验室返回家乡圣克拉拉，创建 “肖克利半导体实验室”
-- 1955年8月，“东京通信工业株式会社” 发布世界第一台半导体收音机 TR-55
+- 1955年，William Shockley 离开贝尔实验室返回家乡圣克拉拉，创建 “肖克利半导体实验室”
+
+#### 1956
+
+- 1956年，“东京通信工业株式会社” 开发出日本第一台晶体管收音机 "TR-55"
 
 #### 1957
 
@@ -116,20 +118,24 @@
 
 #### 1958
 
-- 1958年，“东京通信工业株式会社” 更名为 Sony Corporation（索尼）
+- 1958年，“东京通信工业株式会社” 更名为 “索尼”（Sony）
 
 #### 1960
 
 - 1960年，诺基亚总裁 Bjorn Westerlund 建立诺基亚电子部
 - 1960年4月，John McCarthy 以《递回函数的符号表达式以及由及其运算的方式，第一部》为题，在 Communications of the ACM 发表 LISP 设置，John McCarthy 的学生 Steve Russell 根据该论文在 IBM 704 上成功执行了第一版 LISP
+<<<<<<< HEAD
 - 1960年5月，Sony 发布世界第一台半导体电视 TV8-301
 - 1960年5月31日，Service Games Japan 关闭
 - 1960年6月3日，Nihon Goraku Bussan 接管 Service Games 业务
+=======
+>>>>>>> parent of e4c85cd... Sony
 
 #### 1964
 
 - 1964年，王安推出用电晶体制造的桌上电脑
 
+<<<<<<< HEAD
 #### 1965
 
 <<<<<<< HEAD
@@ -138,6 +144,8 @@
 - 1965年，Rosen Enterprises 和 Nihon Goraku Bussan 合并为新公司 Sega Enterprises，David Rosen 出任 CEO
 >>>>>>> origin/master
 
+=======
+>>>>>>> parent of e4c85cd... Sony
 #### 1966
 
 - 1966年
@@ -215,10 +223,13 @@
     - Larry Ellison 将公司迁往硅谷，并更名为 “关系式软件公司”（RSI）
     - 三星半导体和三星电子成为独立实体
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Sony 发展革命性 CCD（charge-coupled device）感光元件技术
 =======
     - 任天堂推出游戏主机 Color TV Game Racing 112，内置 112 款赛车游戏
 >>>>>>> origin/master
+=======
+>>>>>>> parent of e4c85cd... Sony
 
 #### 1979
 
@@ -298,11 +309,14 @@
     - Guillemot 五兄弟在法国成立育碧娱乐软件公司（Ubisoft Entertainment S.A）
     - Sun Microsystems 在纳斯达克上市，股票代号（SUNW）
 <<<<<<< HEAD
+<<<<<<< HEAD
 - 1986年6月，Sony 发布 32 位元电脑 MSX
 =======
     - 任天堂发布游戏《塞尔达传说》
     - Motorola 开创 *Six Sigma* 质量改善流程
 >>>>>>> origin/master
+=======
+>>>>>>> parent of e4c85cd... Sony
 
 #### 1987
 
@@ -394,7 +408,6 @@
 - 1994年底，浏览器 Mosaic Netscape 0.9 发布（后改名为 Netscape Navigator）
 - 1994年11月，Sega 发售游戏主机 Sega Saturn（SS，世嘉土星）
 - 1994年11月14日，Mosaic 公司更名为网景通信公司（Netscape Communications Corporation）
-- 1994年12月，Sony 发布游戏主机 PlayStation
 
 #### 1995
 
@@ -512,9 +525,7 @@
     - Charles Geschke 退休，卸任 Adobe 总裁
     - 金山发布 “金山毒霸”
 - 2000年1月1日，李彦宏成立百度公司
-- 2000年3月
-    - Confinity 与 X.com 合并
-    - Sony 发布游戏主机 PlayStation 2
+- 2000年3月，Confinity 与 X.com 合并
 - 2000年3月10日，纳斯达克指数达到高点 5048.62
 - 2000年4月14日，新浪在美国纳斯达克上市
 - 2000年4月18日，张小龙以 1200万元的价格把 Foxmail 卖给博大公司，并任公司副总裁
@@ -531,7 +542,6 @@
 - 2001年3月，Sega Dreamcast 停产
 - 2001年6月，新浪董事会免除王志东在新浪的一切职务
 - 2001年9月28日，盛大代理的网游 “传奇” 公测
-- 2001年10月，Sony 和爱立信各控股 50%，成立索尼爱立信（SonyEricsoon）
 - 2001年11月，Sheryl Sandberg 加入 Google 任副总裁，负责全球在线销售和运营
 - 2001年11月15日，徐宥箴加入网易
 - 2001年12月，网易推出 ”大话西游 Online”，为首款国人自研 MMORPG
@@ -629,7 +639,6 @@
 - 2006年10月，校内网被千橡互动集团收购
 - 2006年10月9日，Google 以 16.5亿美元收购 YouTube
 - 2006年11月，曾鸣就任中国雅虎代总裁
-- 2006年11月11日，Sony 在日本发售 PlayStation 3
 
 #### 2007
 
