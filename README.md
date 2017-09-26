@@ -24,6 +24,10 @@
 
 - 1925年1月1日，AT&T 总裁 Walter Gifford 收购西方电子公司研究部门，成立 “贝尔电话实验室公司”（后改名为贝尔实验室）
 
+#### 1928
+
+- 1928年，Joseph Galvin 和 Paul Galvin 成立 Galvin Manufacturing Corporation
+
 #### 1930
 
 - 1930年，J. Clarence Karcher 和 Eugene McDermott 创建 Geophysical Service Incorporated(GSI)
@@ -46,13 +50,19 @@
 
 - 1939年1月1日，Bill Hewlett 和 David Packard 在 Palo Alto 的一间汽车库创建惠普公司（Hewlett-Packard, HP）
 
+#### 1940
+
+- 1940年，Standard Games 在 Honolulu 成立
+
 #### 1941
 
 - 1941年12月6日，McDermott 等四人买下 GSI
 
 #### 1945
 
-- 1945年，贝尔实验室成立固态物理小组，由 William Shockley 和 Stanley Morgan 领导
+- 1945年
+    - 贝尔实验室成立固态物理小组，由 William Shockley 和 Stanley Morgan 领导
+    - Standard Games 改名为 Service Games
 - 1945年11月，帕特里克·哈格蒂被聘为 GSI 实验室和制造部门（Laboratory and Manufacturing, L&M）总经理
 
 #### 1946
@@ -61,6 +71,7 @@
 
 #### 1947
 
+- 1947年，Galvin Manufacturing Corporation 改名为 Motorola（摩托罗拉）
 - 1947年8月18日，惠普注册成为股份制公司
 - 1947年12月23日，William Shockley 小组成员 Walter Brattain 和 John Bardeen 发明 “点接晶体管放大器”（Point-Contact Transistor Amplifier）
 
@@ -82,6 +93,7 @@
     - 王安创办 “王安实验室”（Wang Laboratories）
     - GSI 公司改名为 “通用仪器”（General Instrument）
     - 通用仪器公司改名为 “德州仪器”（Texas Instruments），GSI 成为德州仪器子公司
+    - 美国政府宣布 Slot Machines 非法，Services Games 公司迁往东京
 
 #### 1953
 
@@ -89,6 +101,7 @@
 
 #### 1954
 
+- 1954年，David Rosen 在东京开设运营 two-minute photo booth 的公司
 - 1954年11月，世界第一台晶体管收音机 Regency TR-1 投入市场，由印第安纳波利斯市工业发展工程师协会 Regency 部研制
 
 #### 1955
@@ -96,6 +109,10 @@
 - 1955年
     - William Shockley 离开贝尔实验室返回家乡圣克拉拉，创建 “肖克利半导体实验室”
 - 1955年8月，“东京通信工业株式会社” 发布世界第一台半导体收音机 TR-55
+
+#### 1957
+
+- 1957年，David Rosen 成立 Rosen Enterprises
 
 #### 1958
 
@@ -105,7 +122,12 @@
 
 - 1960年，诺基亚总裁 Bjorn Westerlund 建立诺基亚电子部
 - 1960年4月，John McCarthy 以《递回函数的符号表达式以及由及其运算的方式，第一部》为题，在 Communications of the ACM 发表 LISP 设置，John McCarthy 的学生 Steve Russell 根据该论文在 IBM 704 上成功执行了第一版 LISP
+<<<<<<< HEAD
 - 1960年5月，Sony 发布世界第一台半导体电视 TV8-301
+=======
+- 1960年5月31日，Service Games Japan 关闭
+- 1960年6月3日，Nihon Goraku Bussan 接管 Service Games 业务
+>>>>>>> origin/master
 
 #### 1964
 
@@ -113,7 +135,11 @@
 
 #### 1965
 
+<<<<<<< HEAD
 - 1965年8月，Sony 发布世界第一台家用录影机 CV2000
+=======
+- 1965年，Rosen Enterprises 和 Nihon Goraku Bussan 合并为新公司 Sega Enterprises，David Rosen 出任 CEO
+>>>>>>> origin/master
 
 #### 1966
 
@@ -136,10 +162,12 @@
     - 美国国防部高级研究计划局（Advance Research Projects Agency, ARPA）建立 ARPANET 网络
     - Ken Thompson 以 BCPL 语言为基础，设计了 B语言，并用 B语言开发可运行在 PDP-7 的操作系统 UNiplexed Information and Computing System（UNICS），后被称为 UNIX
     - 三星集团成立三星电子
+    - David 将 Sega Enterprises 卖给 Gulf & Western Industries，并保留其 CEO 职位
 - 1969年5月1日，从 Fairchild Semiconductor 离职的 Jerry Sanders 和其他七个同事成立 Advanced Micro Devices（AMD）
 
 #### 1970
 
+- Motorola 推出 MC6800 型微处理器
 - 1970年6月，IBM 圣约瑟研究实验室 Edgar Frank Codd 在 Communications of the ACM 上发表《大型共享数据库数据的关系模型》
 
 #### 1971
@@ -166,18 +194,21 @@
 
 #### 1975
 
-- 1975年，Richard Stallman 和 Guy Steele 开发 Emacs
+- 1975年
+    - Richard Stallman 和 Guy Steele 开发 Emacs
+    - Frederick Brooks 出版 *The Mythicacl Man-Month: Essays on Software Engineering*
 - 1975年4月4日，Bill Gates 和 Paul Allen 创立微软（Microsoft）
 
 #### 1976
 
-- 1976年4月1日，Steve Jobs，Stephen Wozniak 和 Ron Wayne 成立苹果电脑公司（Apple Computer Inc.）
+- 1976年4月1日，Steve Jobs，Stephen Wozniak 和 Ron Wayne 成立 Apple Computer Inc.
 - 1976年，IBM 研究院发表论文《R系统：数据库关系理论》，介绍了关系数据库理论和查询语言 SQL
 
 #### 1977
 
 - 1977年
-    - 任天堂与三菱联合推出电视游戏平台 Color TV Game 6
+    - 任天堂与三菱联合推出游戏主机 Color TV Game 6，这是任天堂的第一款游戏主机
+    - 任天堂推出游戏主机 Color TV Game 15
     - 宫本茂加入任天堂，负责街机美术设计
 - 1977年6月，Larry Ellison 与 Robert Miner 创立 “软件开发实验室”（Software Development Labs），并将开发的数据库命名为甲骨文（Oracle）
 
@@ -186,20 +217,33 @@
 - 1978年
     - Larry Ellison 将公司迁往硅谷，并更名为 “关系式软件公司”（RSI）
     - 三星半导体和三星电子成为独立实体
+<<<<<<< HEAD
     - Sony 发展革命性 CCD（charge-coupled device）感光元件技术
+=======
+    - 任天堂推出游戏主机 Color TV Game Racing 112，内置 112 款赛车游戏
+>>>>>>> origin/master
 
 #### 1979
 
-- 1979年，索尼推出 Walkman（随身听）
+- 1979年
+    - 索尼推出 Walkman（随身听）
+    - 任天堂推出游戏主机 Color TV Game Block Breaker
+    - 中山隼雄称为 Sega 社长，David Rosen 成为美国分公司领导人
 
 #### 1980
 
-- 1980年，张铠卿之子张旋龙接管香港金山公司
+- 1980
+    - 张铠卿之子张旋龙接管香港金山公司
+    - 任天堂推出游戏主机 Computer TV Game
+    - 任天堂推出携带式游戏主机 Game & Watch
+    - David Potter 成立 Psion Software
 - 1980年12月12日，苹果公司 IPO
 
 #### 1981
 
-- 1981年，孙正义创建软银（SoftBank）
+- 1981年
+    - 孙正义创建软银（SoftBank）
+    - 任天堂发售游戏《大金刚》
 - 1981年，TTK家庭电器有限公司成立（后更名为 TCL）
 - 1981年8月12日，IBM 推出 IBM5150，是世界上第一台个人电脑
 
@@ -219,7 +263,7 @@
     - Paul Allen 因病离开微软
     - MILNET 从 ARPANET 分出，指定给美国机密军事部门使用，ARPANET 仍然被学术研究机构使用
 - 1983年1月9日，苹果公司推出新型电脑 Apple Lisa，这是全球首款将图形用户界面与鼠标结合起来的个人电脑
-- 1983年7月，任天堂推出 “FC游戏机”（红白机，也称 NES）
+- 1983年7月，任天堂推出游戏主机 FAMICOM（官方也称为 Family Computer，FC，俗称红白机）
 - 1983年12月
     - 雅达利准备了 400万份《ET外星人》，只卖出了 150万份，多出来的 250万份游戏卡带和其他卖不出去的存货一起被埋进了新墨西哥州的阿拉莫戈多垃圾镇。这一事件被称为雅达利大崩溃（Atari Shock）
     - 三星成功研发 64K DRAM VLSI 芯片
@@ -230,6 +274,8 @@
     - 柳传志等 11 名中科院计算所科技人员创办联想（Legend）
     - Leonard Bosack 和其夫人 Sandy Lernet 成立思科系统公司（Cisco Systems, Inc.）
     - Andy Gavin 和 Jason Rubin 创办果酱软件（JAM Software, Inc.）
+    - Sega 与 CSK 合并成立 Sega Enterprises, Ltd.
+- 1984年1月24日，Apple 推出电脑 Macintosh
 - 1984年5月
     - Michael Dell 成立戴尔公司（Dell, Inc.）
     - 三星成立数据系统（三星SDS）
@@ -244,6 +290,9 @@
     - 高通（Qualcomm）成立，其七位创始人分别是 Irwin Jacobs, Andrew Viterbi, Harvey White, Adelia Coffman, Andrew Cohen, Klein Gilhousen 和 Franklin Antonio
     - Richard Stallman 发表 GNU Manifesto（GNU 宣言）
     - Richard Stallman 创立 Free Software Foundation（自由软件基金会）
+    - 任天堂推出美版游戏主机 Nintendo Entertainment System（NES）
+    - 任天堂发售游戏《超级马里奥兄弟》
+    - Sega 推出游戏机 Sega Master System（SMS）
 - 1985年9月13日，Steve Jobs 辞去苹果公司董事长职位，并成立 NeXT 计算机公司
 
 #### 1986
@@ -251,7 +300,12 @@
 - 1986年
     - Guillemot 五兄弟在法国成立育碧娱乐软件公司（Ubisoft Entertainment S.A）
     - Sun Microsystems 在纳斯达克上市，股票代号（SUNW）
+<<<<<<< HEAD
 - 1986年6月，Sony 发布 32 位元电脑 MSX
+=======
+    - 任天堂发布游戏《塞尔达传说》
+    - Motorola 开创 *Six Sigma* 质量改善流程
+>>>>>>> origin/master
 
 #### 1987
 
@@ -267,6 +321,7 @@
 - 1988年
     - Adobe 发布 Illustrator 1.0
     - 求伯君加入香港金山公司
+    - Sega 推出游戏机 Mega Drive（MD）
 
 #### 1989
 
@@ -276,14 +331,20 @@
     - ANSI 发布第一个完整的 C语言标准，ANSI X3.159-1989，简称 “C89”
     - 金山发布 WPS 1.0 和金山 I 型汉卡
     - Richard Stallman 起草 GNU General Public License, GNU GPL
+    - 任天堂推出游戏机 Game Boy
+    - Motorola 推出 MicroTAC
+    - Sega 发售 Mega Drive 美国版 Genesis
 - 1989年9月9日，果酱软件改名为顽皮狗（Naughty Dog）
 
 #### 1990
 
-- 1990年，雷军、王全国和李儒雄成立三色公司
+- 1990年
+    - 雷军、王全国和李儒雄成立三色公司
+    - 任天堂推出 Super Famicom（SFC，欧美简称 Super NES/SNES）
 - 1990年2月，Adobe 发布 Photoshop 1.0
 - 1990年3月24日，王安因食道癌在波士顿逝世，享年 70岁
 - 1990年8月，三星电子成功研发 16M DRAM
+- 1990年10月，Sega 推出掌上游戏机 Game Gear
 
 #### 1991
 
@@ -294,6 +355,7 @@
     - AT&T 收购 NCR
     - NCR 收购 Teradata 公司，NCR Teradata 成为世界上最强大的数据仓储
     - 史玉柱成立巨人公司，推出 M-6403
+- 1991年，Sega 发售 Mega CD
 
 #### 1992
 
@@ -326,12 +388,14 @@
     - NCR 更名为 AT&T Global Information Solutions（GIS）
     - 求伯君成立北京金山软件公司
     - Marc Ewing 发布 Redhat Linux
+    - Marcin Iwiński 和 Michał Kiciński 成立 CD Projekt
 - 1994年1月，杨致远和 David Filo 创建网站名为 "Jerry and David's guide to the World Wide Web"
 - 1994年3月，"Jerry and David's guide to the World Wide Web" 改名为 "Yahoo!"（雅虎）
 - 1994年4月4日，Mosaic 开发核心人物 Marc Andreessen 和 Silicon Graphic公司（SGI）创始人 Jim Clark 在加州成立 "Mosaic Communication Corp"
 - 1994年4月20日，中国通过美国 Sprint 公司连入 Internet 的 64K 国际专线开通，实现了与 Internet 的全功能连接
 - 1994年7月，Patrick Naughton 开发小型万维网浏览器 WebRunner（后改名为 HotJava）
 - 1994年底，浏览器 Mosaic Netscape 0.9 发布（后改名为 Netscape Navigator）
+- 1994年11月，Sega 发售游戏主机 Sega Saturn（SS，世嘉土星）
 - 1994年11月14日，Mosaic 公司更名为网景通信公司（Netscape Communications Corporation）
 - 1994年12月，Sony 发布游戏主机 PlayStation
 
@@ -344,10 +408,14 @@
     - Elon Musk 和其弟弟 Kimbal Musk 创办 Zip2
     - Bob Young 和 Ewing 合并成立红帽软件公司
     - Paul Graham 创办 Viaweb，这是世界上第一个互联网应用程序
+    - 任天堂在日本推出 Virtual Boy
+    - *The Mythicacl Man-Month* 再版，并新增 4 章内容
 - 1995年1月18日，雅虎注册域名 yahoo.com
 - 1995年3月25日，Ward Cunningham 建立波特兰模式知识库（Portland Pattern Repository），这是最早的 wiki 系统
 - 1995年4月，马云成立杭州海博电脑服务有限公司，最初的三名员工是马云，马云夫人张瑛和何一兵
-- 1995年5月，马云推出 “中国黄页” 网站
+- 1995年5月
+    - 马云推出 “中国黄页” 网站
+    - Sega Saturn 在美国发售
 - 1995年5月23日，Sun 正式发布 Java 和 HotJava 浏览器
 - 1995年7月16日，Jeff Bezos 成立 Cadabra
 - 1995年7月，Jeff Bezos 将 Cadabra 更名为亚马逊（Amazon）
@@ -373,6 +441,8 @@
     - Nick Szabo 第一次提出 “智能合约”（smart contract）概念
     - Andrew Grove 出版 *Only the Paranoid Survive*（《只有偏执狂才能生存》）
     - Interplay Entertainment 成立 RPG 游戏开发小组，由 Feargus Urquhart 负责
+    - 任天堂推出 Nintendo 64（N64）
+    - 任天堂发布游戏《口袋妖怪》，并推出 Game Boy Pocket
 - 1996年1月，Sun 发布 Java 第一个开发工具包 JDK 1.0
 - 1996年4月12日，雅虎在纳斯达克上市
 - 1996年10月14日，由 Matthias Ettrich 发起的 KDE（K Desktop Environment）项目发布
@@ -402,8 +472,11 @@
     - 雅虎以 5000万美元收购 Paul Graham 的 Viaweb
 - 1998年2月25日，爱特信推出搜狐产品，并更名为搜狐公司
 - 1998年3月，Meg Whitman 加盟 eBay，任公司总裁兼 CEO
+- 1998年5月，Sega 发布游戏主机 Dreamcast（DC）
+- 1998年6月，Psion Software 改名为 Symbian Lid.
 - 1998年6月18日，刘强东成立京东公司
 - 1998年8月7日，Interplay 宣布将 Feargus Urquhart 开发组命名为 Black Isle Studios（黑岛工作室）
+- 1998年8月15日，Apple 推出 iMac
 - 1998年9月4日，Larry Page 和 Sergey Brin 共同创建谷歌公司（Google）
 - 1998年11月11日，马化腾成立腾讯公司，另四位创始人为张志东、许晨晔、陈一丹和曾李菁
 - 1998年12月
@@ -414,6 +487,7 @@
 
 #### 1999
 
+- 1999年，任天堂推出 Game Boy Light
 - 1999年1月，NVIDIA 在 Nasdaq 上市
 - 1999年2月
     - 腾讯开发出即时通讯网络工具 OICQ（后更名为 QQ）
@@ -422,6 +496,7 @@
     - 古永锵加盟搜狐公司，时任搜狐高级副总裁兼首席财务官
     - Elon Musk 创办在线金融服务和电子邮件支付业务公司 X.com
 - 1999年4月15日，马云推出 “阿里巴巴” 网站正式上线
+- 1999年5月18日，王俊涛创办电子商务网站 8848
 - 1999年，蔡崇信加入阿里巴巴，就任 CFO
 - 1999年6月，Sun 发布 J2SDK（Java 2 Platform Software Developing Kit）三个版本，分为标准版（Standard Edition, J2SE），企业版（Enterprise Edition, J2EE），微型版（Micro Edition, J2ME）
 - 1999年7月12日，中华网在纳斯达克上市，成为第一个在美国纳斯达克上市的中国概念网络公司
@@ -453,8 +528,10 @@
 - 2001年
     - 杨元庆出任联想总裁兼 CEO
     - X.com 改名为 PayPal
+    - 任天堂推出 Game Boy Advance（GBA）和 GameCube
 - 2001年1月10日，Wikipedia 由 Jimmy Wales 发起
 - 2001年1月15日，英文版 Wikipedia 发布
+- 2001年3月，Sega Dreamcast 停产
 - 2001年6月，新浪董事会免除王志东在新浪的一切职务
 - 2001年9月28日，盛大代理的网游 “传奇” 公测
 - 2001年10月，Sony 和爱立信各控股 50%，成立索尼爱立信（SonyEricsoon）
@@ -470,12 +547,15 @@
     - PayPal 上市
     - Compaq 签署 242亿美元并购协议与惠普公司合并
     - 吴军加入 Google
+    - 山内溥退休，岩田聪称为任天堂新社长
 - 2002年7月，eBay 以 15亿 美元收购 PayPal
 - 2002年8月，方兴东创立 “博客中国”，为国内首个博客平台
+- 2002年11月，*The Mythicacl Man-Month* 中文版《人月神话》出版，译者汪颖
 - 2002年12月，Reid Hoffman 成立 LinkedIn，创始团队成员分别来自 PayPal 和 Socialnet.com
 
 #### 2003
 
+- 2003年，任天堂推出 Game Boy Advance SP（GBA SP）
 - 2003年4月，联想集团宣布启用新英文标识 "Lenovo"
 - 2003年5月
     - 蔡文胜创办 265.com
@@ -484,7 +564,9 @@
 - 2003年6月12日，Feargus Urquhart，Chris Avellone，Chris Parker，Darren Monahan 和 Chris Jones 成立 Obsidian Entertainment（黑曜石娱乐）
 - 2003年9月，eUniverse 的 Tom Anderson、Chris De Wolfe 和一个开发小团队发布第一版 MySpace
 - 2003年11月6日，网易游戏《梦幻西游》开始内测，徐宥箴作为策划
-- 2003年12月，Ward Cunningham 加入微软
+- 2003年12月
+    - Ward Cunningham 加入微软
+    - Andy Rubin 在 Palo Alto 成立 Android Inc.
 - 2003年12月8日，Interplay 遣散 Black Isle Studios 全部成员
 
 #### 2004
@@ -494,6 +576,7 @@
     - Aaron Swartz 建立 Infogami 网站
     - 暴雪娱乐制作的网络游戏《魔兽世界（World of Warcraft）》在北美公测
     - Peter Thiel 聘请 Alex Karp 为 Palantir CEO
+    - 任天堂推出 Nintendo DS（NDS）
 - 2004年2月4日，Mark Zuckerberg 在 Andrew McCollum 和 Eduardo Saverin 的支持下，创办 “The Facebook”，域名为 thefacebook.com
 - 2004年2月底，Dustin Moskovitz 和 Chris Hughes 加入 Facebook
 - 2004年6月16日，腾讯公司在香港联交所主板公开上市（股票代号00700）
@@ -507,7 +590,9 @@
 
 #### 2005
 
-- 2005年，Paul Graham，Jessica Livingston，Trevor Blackwell 和 Robert Tappan Morris 成立 Y Combinator
+- 2005年
+    - Paul Graham，Jessica Livingston，Trevor Blackwell 和 Robert Tappan Morris 成立 Y Combinator
+    - 任天堂推出 GBA 衍生机 Game Boy MICRO
 - 2005年1月，Peter Thiel, Ken Howery 和 Luke Nosek 创建 Founders Fund
 - 2005年2月14日，Chad Hurley、陈士骏和 Jawed Karim 成立 YouTube
 - 2005年3月6日，豆瓣网正式上线
@@ -518,7 +603,9 @@
 - 2005年6月
     - 蔡力行出任台积电 CEO，张忠谋任董事长
     - Steve Huffman 和 Alexis Ohanian 创建 Reddit
-- 2005年7月，Rupert Murdoch 的新闻集团以 5.8亿美元收购 MySpace
+- 2005年7月
+    - Rupert Murdoch 的新闻集团以 5.8亿美元收购 MySpace
+    - Google 以 5 千万美元收购 Android
 - 2005年8月11日，雅虎投资阿里巴巴 10亿美元，同时阿里巴巴收购雅虎中国
 - 2005年8月23日，Facebook 从 About Face 公司手中以 20万美元购得域名 facebok.com，并把 the 从名字中去掉
 - 2005年9月，周鸿祎成立奇虎360
@@ -533,9 +620,11 @@
 - 2006年
     - 汪滔在深圳成立大疆创新公司（DJI-Innovation）
     - Sean Parker 加入 Founders Fund
+    - 任天堂推出游戏主机 Wii
 - 2006年1月
     - Reddit 与 Infogami 合并，Aaron Swartz 加入 Reddit
     - 徐宥箴从网易离职
+- 2006年1月10日，Apple 推出 MacBook Pro
 - 2006年2月，张一鸣加入旅游搜索网站酷讯
 - 2006年6月21日，合一网络发布 “优酷网” 公测
 - 2006年7月，徐宥箴创办多益网络
@@ -569,8 +658,11 @@
     - 程炳皓推出开心网
     - Sheryl Sandberg 从 Google 离职加入 Facebook，任 COO
 - 2008年4月10日，GitHub 正式上线
-- 2008年6月，宏达电子公司英文名称更名为 HTC Corporation
+- 2008年6月
+    - 宏达电子公司英文名称更名为 HTC Corporation
+    - Nokia 收购 Symbian Ltd.
 - 2008年6月10日，乔布斯于 “全球开发者大会” 上发布 3G版 iPhone
+- 2008年7月11日，Apple iPhone 3G 上市发售
 - 2008年8月11日，airbedandbreakfast.com 正式上线
 - 2008年10月，吴欣鸿在厦门创办美图公司，美图秀秀上线
 - 2008年11月1日，中本聪（Satoshi Nakamoto）在一个密码学评论组发表了一篇研讨陈述，陈述其对电子货币的设想
@@ -583,6 +675,7 @@
 - 2009年3月，airbedandbreakfast.com 改名为 airbnb.com
 - 2009年4月20日，甲骨文以 74亿现金收购 Sun Microsystems
 - 2009年6月，张忠谋重任台积电 CEO
+- 2009年6月19日，Apple 发售 iPhone 3GS
 - 2009年7月，新浪桌面产品事业部主管彭少彬主持开发微博
 - 2009年8月4日，校内网更名为人人网
 - 2009年8月11日，饭否关停
@@ -608,6 +701,7 @@
 - 2011年
     - 杨元庆担任联想集团董事长兼 CEO
     - Supercell Oy 发布 MMORPG Gunshine
+    - 任天堂推出 3DS
 - 2011年1月21日，腾讯推出针对 iPhone 用户的 “微信 1.0 beta”
 - 2011年7月11日，雷军出任金山软件董事长
 - 2011年8月2日，张小龙任腾讯公司高级副总裁，负责腾讯公司广州研发部的管理工作
@@ -616,12 +710,15 @@
 - 2011年10月5日
     - 中华网向美国亚特兰大破产法庭提交破产申请
     - Steve Jobs 因患胰腺癌病逝，享年 56岁
+- 2011年10月14日，Apple 发售 iPhone 4s
 - 2011年11月，MySpace 停止访问
 
 #### 2012
 
+- 2012年，任天堂推出 Wii 后续机种 Wii U
 - 2012年1月11日，淘宝商城更名为 “天猫”
 - 2012年3月，张一鸣成立 “跳动字节”
+- 2012年3月15日，Thatgamecompany 发布 PSN 游戏《风之旅人》(Journey)
 - 2012年4月19日，微信发布 4.0 版本，新增 “朋友圈” 功能
 - 2012年5月，吴军出版《数学之美》
 - 2012年8月
@@ -629,15 +726,19 @@
     - 跳动字节发布 “今日头条”
 - 2012年8月2日，Supercell Oy 发布手游 Clash of Clans iOS 版
 - 2012年8月23日，优酷土豆宣布合并为 “优酷土豆”
+- 2012年9月21日，Apple 发售 iPhone 5
 
 #### 2013
 
 - 2013年1月，大疆发布 “精灵”（Phantom），这是首款消费级无人机
 - 2013年1月11日，Aaron Swartz 在其纽约布鲁克林公寓内上吊自杀
 - 2013年3月15日，微软关闭全球范围（除中国）MSN Messenger，改为 Skype
+- 2013年3月26日，Irrational Games 发布游戏《生化奇兵：无限》
 - 2013年8月31日，中国雅虎宣布停止服务
 - 2013年9月3日，微软宣布以约 71.7亿美元收购诺基亚手机业务，以及大批专利组合
 - 2013年9月17日，Rockstar Games 的 *Grand Theft Auto V* 登陆 Play Station 3 和 Xbox 360
+- 2013年9月19日，山内溥去世，享年 85 岁
+- 2013年9月20日，Apple 发售 iPhone 5s
 - 2013年底，Vitalik Buterin 发布以太坊（Ethereum）白皮书
 
 #### 2014
@@ -653,19 +754,26 @@
 - 2014年5月6日，腾讯公司成立微信事业群，由张小龙担任微信事业群总裁
 - 2014年7月20日，Facebook 宣布，收购 Oculus VR 的交易正式结束
 - 2014年7月24日，以太坊开始为期 42 天的在线众筹，参与者必须用 bitcoin 购买 ether（以太坊代币）
+- 2014年9月9日，Apple 发布 iPhone 6，iPhone 6 Plus
 - 2014年9月16日，Peter Thiel 和 Blake Masters 出版 *Zero to One*（《从0到1》）
 - 2014年10月31日，MSN Messenger 正式退出中国市场，改为 Skype
 
 #### 2015
 
 - 2015年4月10日，PayPal 从 eBay 分拆
+- 2015年5月19日，CD Projekt RED 发布其制作的单机游戏 *The Witcher 3: Wild Hunt*
+- 2015年7月11日，岩田聪因病去世，终年 55 岁
+- 2015年9月9日，Apple 发布 iPhone 6s 和 iPhone 6s Plus
 
 #### 2016
 
 - 2016年5月1日，吴军出版《浪潮之巅》
 - 2016年6月17日，基于以太坊项目 the DAO 遭受黑客攻击，价值 5千万美元 Ether 被盗
 - 2016年7月21日，开心网创始人兼 CEO 程炳皓宣布离职
+- 2016年9月8日，Apple 发布 iPhone 7 和 iPhone 7 Plus
+- 2016年11月，任天堂宣布停产 Wii U
 
 #### 2017
 
+- 2017年3月3日，任天堂推出游戏主机 SWITCH
 - 2017年4月20日，腾讯发布 WeGame 平台
