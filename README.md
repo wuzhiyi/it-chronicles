@@ -356,6 +356,8 @@
     - MacroMind，Paracomp 和 Authorware 三家公司合并成立 Macromedia
     - Sun Green 项目小组成功开发 Oak语言
     - 雷军加盟金山公司
+    - 李一男进入华为实习
+- 1992年1月，Jeff Hawkins 成立 Palm Computing
 - 1992年7月，SGI 发布 OpenGL 1.0
 
 #### 1993
@@ -367,6 +369,7 @@
     - Jonathan Gay 成立 Future Wave
     - Bob Young 成立 ACC 公司，主要业务是出售 Linux 和 Unix 的软件附件
 - 1993年1月，Jen-Hsun Huang（黄仁勋）、Chris Malachowsky 和 Curtis Priem 创办 NVIDIA Corporation（英伟达）
+- 1993年6月，李一男正式入职华为
 - 1993年12月，王志东得到四通集团 500万港币投资创办四通利方信息技术有限公司
 
 #### 1994
@@ -503,6 +506,7 @@
 - 2000年
     - Charles Geschke 退休，卸任 Adobe 总裁
     - 金山发布 “金山毒霸”
+    - 李一男成立港湾网络
 - 2000年1月1日，李彦宏成立百度公司
 - 2000年3月，Confinity 与 X.com 合并
 - 2000年3月10日，纳斯达克指数达到高点 5048.62
@@ -563,6 +567,7 @@
     - 暴雪娱乐制作的网络游戏《魔兽世界（World of Warcraft）》在北美公测
     - Peter Thiel 聘请 Alex Karp 为 Palantir CEO
     - 任天堂推出 Nintendo DS（NDS）
+    - 金沙江创投成立
 - 2004年2月4日，Mark Zuckerberg 在 Andrew McCollum 和 Eduardo Saverin 的支持下，创办 “The Facebook”，域名为 thefacebook.com
 - 2004年2月底，Dustin Moskovitz 和 Chris Hughes 加入 Facebook
 - 2004年6月16日，腾讯公司在香港联交所主板公开上市（股票代号00700）
@@ -612,6 +617,7 @@
     - 徐宥箴从网易离职
 - 2006年1月10日，Apple 推出 MacBook Pro
 - 2006年2月，张一鸣加入旅游搜索网站酷讯
+- 2006年6月，华为收购港湾网络，李一男重回华为任职
 - 2006年6月21日，合一网络发布 “优酷网” 公测
 - 2006年7月，徐宥箴创办多益网络
 - 2006年8月，曾鸣加入阿里巴巴集团任集团参谋部资深副总裁
@@ -649,11 +655,14 @@
 - 2008年6月10日，乔布斯于 “全球开发者大会” 上发布 3G版 iPhone
 - 2008年7月11日，Apple iPhone 3G 上市发售
 - 2008年8月11日，airbedandbreakfast.com 正式上线
-- 2008年10月，吴欣鸿在厦门创办美图公司，美图秀秀上线
+- 2008年10月
+    - 吴欣鸿在厦门创办美图公司，美图秀秀上线
+    - 李一男担任百度 CTO
 - 2008年11月1日，中本聪（Satoshi Nakamoto）在一个密码学评论组发表了一篇研讨陈述，陈述其对电子货币的设想
 
 #### 2009
 
+- 2009年，Garrett Camp 和 Travis Kalanick 成立 UberCab
 - 2009年1月，airbedandbreakfast.com 的三位创始人受邀加入 Y Combinator 的冬季训练营
 - 2009年1月3日，中本聪在比特币创世区块里写下一句永远不可修改的话: "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks."
 - 2009年2月，柳传志担任联想集团董事长，杨元庆再任 CEO
@@ -672,13 +681,17 @@
 - 2010年
     - Aaron Swartz 成立 Demand Progess，反对《禁止网络盗版法案（SOPA）》和《保护知识产权法案（PIPA）》
     - 吴军加入腾讯任副总裁，负责搜索业务
-- 2010年3月4日，王兴推出美团网
+- 2010年1月18日，李一男从百度离职，加盟中国移动，任 12580 CEO
+- 2010年2月，Ryan Graves 加入 UberCab
+2010年3月4日，王兴推出美团网
 - 2010年4月6日，雷军成立小米公司，其余创始人分别是林斌、周光平、刘德、黎万强、黄江吉和洪峰
+- 2010年5月，UberCab 发布 beta 版
 - 2010年5月22日，美国佛罗里达州杰克逊维尔的程序员 Laszlo Hanyecz 用 10,000 BTC 购买了价值 25美元的披萨，这是比特币现实世界第一笔交易
 - 2010年6月，Ilkka Paananen 六人在赫尔辛基成立 Supercell Oy，其他五位创始人分别是 Mikko Kodisoja, Niko Derome, Visa Forsten, Lassi Leppinen 和 Petri Styrman
 - 2010年6月8日，苹果公司发布 iPhone 4
 - 2010年11月20日，腾讯微信正式立项，由张小龙负责
 - 2010年11月25日，饭否重新开启
+- 2010年12月，Travis Kalanick 担任 UberCab CEO，Ryan Graves 担任 COO
 - 2010年12月10日，小米公司正式发布米聊 Android 内测版
 
 #### 2011
@@ -687,9 +700,12 @@
     - 杨元庆担任联想集团董事长兼 CEO
     - Supercell Oy 发布 MMORPG Gunshine
     - 任天堂推出 3DS
+    - UberCab 发布移动 app
+    - UberCab 改名为 Uber
 - 2011年1月21日，腾讯推出针对 iPhone 用户的 “微信 1.0 beta”
 - 2011年7月11日，雷军出任金山软件董事长
 - 2011年8月2日，张小龙任腾讯公司高级副总裁，负责腾讯公司广州研发部的管理工作
+- 2011年8月18日，李一男加入金沙江创投任合伙人
 - 2011年8月25日，苹果宣布任命 Steve Jobs 为董事长，Tim Cook 接任 CEO
 - 2011年10月1日，微信发布 3.0 版本，新增 “摇一摇” 功能
 - 2011年10月5日
@@ -711,6 +727,7 @@
     - 跳动字节发布 “今日头条”
 - 2012年8月2日，Supercell Oy 发布手游 Clash of Clans iOS 版
 - 2012年8月23日，优酷土豆宣布合并为 “优酷土豆”
+- 2012年9月9日，滴滴打车在北京上线
 - 2012年9月21日，Apple 发售 iPhone 5
 
 #### 2013
@@ -748,7 +765,9 @@
 - 2015年4月10日，PayPal 从 eBay 分拆
 - 2015年5月19日，CD Projekt RED 发布其制作的单机游戏 *The Witcher 3: Wild Hunt*
 - 2015年7月11日，岩田聪因病去世，终年 55 岁
-- 2015年9月9日，Apple 发布 iPhone 6s 和 iPhone 6s Plus
+- 2015年9月9日
+    - Apple 发布 iPhone 6s 和 iPhone 6s Plus
+    - “滴滴打车” 更名为 “滴滴出行”
 
 #### 2016
 
