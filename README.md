@@ -1,12 +1,33 @@
 ### IT 编年史
 
+#### 1877
+
+- 1877年7月9日，Bell Telephone Company 在波士顿成立
+
+#### 1879
+
+- 1879年2月17日，Bell Telephone Company 和 New England Telephone and Telegraph Company 合并，并在波士顿成立 National Bell Telephone Company 以及在布鲁塞尔成立 International Bell Telephone Company
+
+#### 1880
+
+- 1880年3月20日，National Telephone Company 和 American Speaking Telephone Company 合并成立 American Bell Telephone Company
+- 1880年，American Bell Company 开始项目 AT&T Long Lines
+
 #### 1884
 
-- John H. Patterson 成立 National Cash Register Company
+- 1884年，John H. Patterson 成立 National Cash Register Company
+
+#### 1885
+
+- 1885年3月3日，AT&T 项目单独成立 American Telephone and Telegraph Company
+
+#### 1899
+
+- 1899年12月30日，American Bell Company 资产全部转移到 AT&T
 
 #### 1906
 
-- Charles F. Kettering 设计了世界上第一台电动收款机
+- 1906年，Charles F. Kettering 设计了世界上第一台电动收款机
 
 #### 1911
 
@@ -22,7 +43,7 @@
 
 #### 1925
 
-- 1925年1月1日，AT&T 总裁 Walter Gifford 收购西方电子公司研究部门，成立 “贝尔电话实验室公司”（后改名为贝尔实验室）
+- 1925年1月1日，AT&T 总裁 Walter Gifford 收购西方电子公司研究部门，成立 Bell Telephone Laboratories, Inc.（贝尔电话实验室公司，后改名为贝尔实验室）
 
 #### 1928
 
@@ -93,7 +114,7 @@
     - 王安创办 “王安实验室”（Wang Laboratories）
     - GSI 公司改名为 “通用仪器”（General Instrument）
     - 通用仪器公司改名为 “德州仪器”（Texas Instruments），GSI 成为德州仪器子公司
-    - 美国政府宣布 Slot Machines 非法，Services Games 公司迁往东京
+    - 美国政府宣布 Slot Machines 非法，Services Games 迁往东京
 
 #### 1953
 
@@ -102,19 +123,23 @@
 #### 1954
 
 - 1954年，David Rosen 在东京开设运营 two-minute photo booth 的公司
-- 1954年11月，世界第一台晶体管收音机 Regency TR-1 投入市场，由印第安纳波利斯市工业发展工程师协会 Regency 部研制
 
 #### 1955
 
-- 1955年，William Shockley 离开贝尔实验室返回家乡圣克拉拉，创建 “肖克利半导体实验室”
+- 1955年，William Shockley 离开贝尔实验室，在加州 Moutain View 成立 Shockley Semiconductor Laboratory（肖克利半导体实验室）
 
 #### 1956
 
-- 1956年，“东京通信工业株式会社” 开发出日本第一台晶体管收音机 "TR-55"
+- 1956年
+ - “东京通信工业株式会社” 开发出世界第一台晶体管收音机 "TR-55"
+ - Robert Noyce, Gordon Moore, Julius Blank, Eugene Kliner, Jean Hoerni, Jay Last, Sheldon Boberts 和 Victor Grinich 八人相继加入肖克利半导体实验室
+- 1956年1月，William Shockley，Walter Brattain 和 John Bardeen 被授予诺贝尔物理奖，以表彰其对半导体的研究和发现晶体管
 
 #### 1957
 
 - 1957年，David Rosen 成立 Rosen Enterprises
+- 1957年8月，Robert Noyce 等八人和 Sherman Fairchild 达成协议
+- 1957年9月18日，Robert Noyce 等八人成立 Fairchild Semiconductor（仙童半导体）
 
 #### 1958
 
