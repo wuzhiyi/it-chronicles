@@ -113,7 +113,7 @@
 - 1951年
     - 王安创办 “王安实验室”（Wang Laboratories）
     - GSI 公司改名为 “通用仪器”（General Instrument）
-    - 通用仪器公司改名为 “德州仪器”（Texas Instruments），GSI 成为德州仪器子公司
+    - 通用仪器公司改名为 Texas Instruments（德州仪器），GSI 成为德州仪器子公司
     - 美国政府宣布 Slot Machines 非法，Services Games 迁往东京
 
 #### 1953
@@ -144,6 +144,12 @@
 #### 1958
 
 - 1958年，“东京通信工业株式会社” 更名为 “索尼”（Sony）
+- 1958年9月12日，德州仪器的 Jack Kilby 制造了世界上第一块集成电路（基于锗）
+
+#### 1959
+
+- 1959年2月6日，Jack Kilby 申请集成电路专利
+- 1959年7月30日，Fairchild Semiconductor 的 Robert Noyce 制造了基于硅的集成电路，并申请专利
 
 #### 1960
 
@@ -160,6 +166,7 @@
 #### 1965
 
 - 1965年，Rosen Enterprises 和 Nihon Goraku Bussan 合并为新公司 Sega Enterprises，David Rosen 出任 CEO
+- 1965年4月19日，Fairchild Semiconductor 的 Gordon Moore 在 Electronics magazine（《电子学》）发表文章 *Cramming more components onto integrated circuits*，提出半导体芯片上集成晶体管和电阻的数量将每两年增加一倍
 - 1965年8月，Sony 发布世界第一台家用录影机 CV2000
 
 #### 1966
@@ -218,6 +225,7 @@
 - 1975年
     - Richard Stallman 和 Guy Steele 开发 Emacs
     - Frederick Brooks 出版 *The Mythicacl Man-Month: Essays on Software Engineering*
+    - 加州理工的教授 Carver Mead 定义了 *Moore's law*（摩尔定律）
 - 1975年4月4日，Bill Gates 和 Paul Allen 创立微软（Microsoft）
 
 #### 1976
@@ -232,6 +240,7 @@
     - 任天堂推出游戏主机 Color TV Game 15
     - 宫本茂加入任天堂，负责街机美术设计
 - 1977年6月，Larry Ellison 与 Robert Miner 创立 “软件开发实验室”（Software Development Labs），并将开发的数据库命名为甲骨文（Oracle）
+- 1977年9月11日，Atari 发行第二世代游戏主机 Atari 2600
 
 #### 1978
 
@@ -283,7 +292,7 @@
 - 1983年1月9日，苹果公司推出新型电脑 Apple Lisa，这是全球首款将图形用户界面与鼠标结合起来的个人电脑
 - 1983年7月，任天堂推出游戏主机 FAMICOM（官方也称为 Family Computer，FC，俗称红白机）
 - 1983年12月
-    - 雅达利准备了 400万份《ET外星人》，只卖出了 150万份，多出来的 250万份游戏卡带和其他卖不出去的存货一起被埋进了新墨西哥州的阿拉莫戈多垃圾镇。这一事件被称为雅达利大崩溃（Atari Shock）
+    - 雅达利准备了 400万份《ET外星人》，只卖出了 150万份，多出来的 250万份游戏卡带和其他卖不出去的存货一起被埋进了新墨西哥州的阿拉莫戈多垃圾填埋场。这一事件被称为西方称为 Video Game Crash of 1983，日本称为 Atari Shock（雅达利大崩溃）
     - 三星成功研发 64K DRAM VLSI 芯片
 
 #### 1984
@@ -538,6 +547,7 @@
 - 2000年4月14日，新浪在美国纳斯达克上市
 - 2000年4月18日，张小龙以 1200万元的价格把 Foxmail 卖给博大公司，并任公司副总裁
 - 2000年底，雷军出任金山软件总裁
+- 2000年12月10日，Jack Kilby 被授予诺贝尔物理学奖，以表彰其在发明集成电路中所做的贡献
 
 #### 2001
 
@@ -759,6 +769,7 @@
 
 - 2013年1月，大疆发布 “精灵”（Phantom），这是首款消费级无人机
 - 2013年1月11日，Aaron Swartz 在其纽约布鲁克林公寓内上吊自杀
+- 2013年1月21日，Atari 向美国纽约法院申请破产保护
 - 2013年3月15日，微软关闭全球范围（除中国）MSN Messenger，改为 Skype
 - 2013年3月26日，Irrational Games 发布游戏《生化奇兵：无限》
 - 2013年8月31日，中国雅虎宣布停止服务
@@ -778,6 +789,7 @@
 - 2014年3月25日，Facebook 宣布，将以 20亿美元的总价收购 Oculus VR，预计 2014 年第二季度中完成交易
 - 2014年3月27日，“新浪微博” 更名为 “微博”
 - 2014年4月，微博在纳斯达克上市
+- 2014年4月26日，纪录片 *Atari: Game Over* 摄制组在新墨西哥州的阿拉莫戈多垃圾填埋场挖出了 E.T. 游戏卡带，一共 1300 份，其中 700 份被阿拉莫戈多城市委员会在 ebay 上出售，100 份由该电影制作公司 Lightbox and Fuel Entertainment 获得，剩余 500 份在 Washington, DC 和 New Mexico 的博物馆展览
 - 2014年5月6日，腾讯公司成立微信事业群，由张小龙担任微信事业群总裁
 - 2014年7月20日，Facebook 宣布，收购 Oculus VR 的交易正式结束
 - 2014年7月24日，以太坊开始为期 42 天的在线众筹，参与者必须用 bitcoin 购买 ether（以太坊代币）
