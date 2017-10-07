@@ -200,18 +200,23 @@
 
 #### 1971
 
-- 1971年，Dennis M. Ritchie 加入 Ken Thompson 的 UNIX 开发项目
+- 1971年
+    - Dennis M. Ritchie 加入 Ken Thompson 的 UNIX 开发项目
+    - Nolan Bushnell 和 Ted Dabney 成立 Syzygy Engineering，并生产了世界上第一台商用投币游戏机（俗称街机）Computer Space
 
 #### 1972
 
 - 1972年
-    - Nolan Bushnell 创办雅达利公司（Atari），并推出第一款视频游戏 Pong
     - 王安成功研制半导体文字处理机
     - D.M. Ritchie 在 B语言基础上设计了新的语言，取名为 C语言
+- 1972年6月27日，Nolan Bushnell 和 Ted Dabney 成立 Atari, Inc.
+- 1972年11月29日，Atari 发售街机 Pong
 
 #### 1973
 
-- 1973年，张铠卿创建香港金山公司
+- 1973年
+ - 张铠卿创建香港金山公司
+ - Atari 收购 Cyan Engineering 负责研发下一代视频游戏系统 Stella（后改名为 Atari 2600）
 
 #### 1974
 
@@ -230,8 +235,11 @@
 
 #### 1976
 
+- 1976年
+    - IBM 研究院发表论文《R系统：数据库关系理论》，介绍了关系数据库理论和查询语言 SQL
+    - Nolan Bushnell 将 Atari 以 2800 万美元的价格卖给 Warner Communications
 - 1976年4月1日，Steve Jobs，Stephen Wozniak 和 Ron Wayne 成立 Apple Computer Inc.
-- 1976年，IBM 研究院发表论文《R系统：数据库关系理论》，介绍了关系数据库理论和查询语言 SQL
+- 1976年8月，Fairchild 发布 Video Entertainment System（VES，后改名为 Channel F）
 
 #### 1977
 
@@ -292,7 +300,7 @@
 - 1983年1月9日，苹果公司推出新型电脑 Apple Lisa，这是全球首款将图形用户界面与鼠标结合起来的个人电脑
 - 1983年7月，任天堂推出游戏主机 FAMICOM（官方也称为 Family Computer，FC，俗称红白机）
 - 1983年12月
-    - 雅达利准备了 400万份《ET外星人》，只卖出了 150万份，多出来的 250万份游戏卡带和其他卖不出去的存货一起被埋进了新墨西哥州的阿拉莫戈多垃圾填埋场。这一事件被称为西方称为 Video Game Crash of 1983，日本称为 Atari Shock（雅达利大崩溃）
+    - 雅达利将所有卖不出去的存货倾倒在新墨西哥州的阿拉莫戈多垃圾填埋场。这一事件被称为西方称为 Video Game Crash of 1983，日本称为 Atari Shock（雅达利大崩溃）
     - 三星成功研发 64K DRAM VLSI 芯片
 
 #### 1984
